@@ -1,0 +1,658 @@
+[INFO]-[2019/07/15 00:34:12] Cloning: testing's clone job's data is not in database, generating data
+[INFO]-[2019/07/15 00:34:12] Cloning: testing's clone job's data is not in database, generating data
+[INFO]-[2019/07/15 00:34:13] DB Copy: Creating table wpstg1_commentmeta
+[INFO]-[2019/07/15 00:34:13] DB Copy: Creating table wpstg1_commentmeta
+[INFO]-[2019/07/15 00:34:13] DB Copy: Creating table wpstg1_comments
+[INFO]-[2019/07/15 00:34:13] DB Copy: wp_6tj6vd_comments as wpstg1_comments from 0 to 10000 records
+[INFO]-[2019/07/15 00:34:13] DB Copy: Creating table wpstg1_comments
+[INFO]-[2019/07/15 00:34:13] DB Copy: wp_6tj6vd_comments as wpstg1_comments from 0 to 10000 records
+[INFO]-[2019/07/15 00:34:13] DB Copy: Creating table wpstg1_layerslider
+[INFO]-[2019/07/15 00:34:13] DB Copy: Creating table wpstg1_layerslider
+[INFO]-[2019/07/15 00:34:13] DB Copy: Creating table wpstg1_links
+[INFO]-[2019/07/15 00:34:13] DB Copy: Creating table wpstg1_links
+[INFO]-[2019/07/15 00:34:13] DB Copy: Creating table wpstg1_options
+[INFO]-[2019/07/15 00:34:13] DB Copy: wp_6tj6vd_options as wpstg1_options from 0 to 10000 records
+[INFO]-[2019/07/15 00:34:13] DB Copy: Creating table wpstg1_options
+[INFO]-[2019/07/15 00:34:13] DB Copy: wp_6tj6vd_options as wpstg1_options from 0 to 10000 records
+[INFO]-[2019/07/15 00:34:14] DB Copy: Creating table wpstg1_postmeta
+[INFO]-[2019/07/15 00:34:14] DB Copy: wp_6tj6vd_postmeta as wpstg1_postmeta from 0 to 10000 records
+[INFO]-[2019/07/15 00:34:14] DB Copy: Creating table wpstg1_postmeta
+[INFO]-[2019/07/15 00:34:14] DB Copy: wp_6tj6vd_postmeta as wpstg1_postmeta from 0 to 10000 records
+[INFO]-[2019/07/15 00:34:14] DB Copy: Creating table wpstg1_posts
+[INFO]-[2019/07/15 00:34:14] DB Copy: wp_6tj6vd_posts as wpstg1_posts from 0 to 10000 records
+[INFO]-[2019/07/15 00:34:14] DB Copy: Creating table wpstg1_posts
+[INFO]-[2019/07/15 00:34:14] DB Copy: wp_6tj6vd_posts as wpstg1_posts from 0 to 10000 records
+[INFO]-[2019/07/15 00:34:14] DB Copy: Creating table wpstg1_revslider_css
+[INFO]-[2019/07/15 00:34:14] DB Copy: wp_6tj6vd_revslider_css as wpstg1_revslider_css from 0 to 10000 records
+[INFO]-[2019/07/15 00:34:14] DB Copy: Creating table wpstg1_revslider_css
+[INFO]-[2019/07/15 00:34:14] DB Copy: wp_6tj6vd_revslider_css as wpstg1_revslider_css from 0 to 10000 records
+[INFO]-[2019/07/15 00:34:15] DB Copy: Creating table wpstg1_revslider_layer_animations
+[INFO]-[2019/07/15 00:34:15] DB Copy: Creating table wpstg1_revslider_layer_animations
+[INFO]-[2019/07/15 00:34:15] DB Copy: Creating table wpstg1_revslider_navigations
+[INFO]-[2019/07/15 00:34:15] DB Copy: Creating table wpstg1_revslider_navigations
+[INFO]-[2019/07/15 00:34:15] DB Copy: Creating table wpstg1_revslider_sliders
+[INFO]-[2019/07/15 00:34:15] DB Copy: Creating table wpstg1_revslider_sliders
+[INFO]-[2019/07/15 00:34:15] DB Copy: Creating table wpstg1_revslider_slides
+[INFO]-[2019/07/15 00:34:15] DB Copy: Creating table wpstg1_revslider_slides
+[INFO]-[2019/07/15 00:34:15] DB Copy: Creating table wpstg1_revslider_static_slides
+[INFO]-[2019/07/15 00:34:15] DB Copy: Creating table wpstg1_revslider_static_slides
+[INFO]-[2019/07/15 00:34:15] DB Copy: Creating table wpstg1_term_relationships
+[INFO]-[2019/07/15 00:34:15] DB Copy: wp_6tj6vd_term_relationships as wpstg1_term_relationships from 0 to 10000 records
+[INFO]-[2019/07/15 00:34:15] DB Copy: Creating table wpstg1_term_relationships
+[INFO]-[2019/07/15 00:34:15] DB Copy: wp_6tj6vd_term_relationships as wpstg1_term_relationships from 0 to 10000 records
+[INFO]-[2019/07/15 00:34:16] DB Copy: Creating table wpstg1_term_taxonomy
+[INFO]-[2019/07/15 00:34:16] DB Copy: wp_6tj6vd_term_taxonomy as wpstg1_term_taxonomy from 0 to 10000 records
+[INFO]-[2019/07/15 00:34:16] DB Copy: Creating table wpstg1_term_taxonomy
+[INFO]-[2019/07/15 00:34:16] DB Copy: wp_6tj6vd_term_taxonomy as wpstg1_term_taxonomy from 0 to 10000 records
+[INFO]-[2019/07/15 00:34:16] DB Copy: Creating table wpstg1_termmeta
+[INFO]-[2019/07/15 00:34:16] DB Copy: Creating table wpstg1_termmeta
+[INFO]-[2019/07/15 00:34:16] DB Copy: Creating table wpstg1_terms
+[INFO]-[2019/07/15 00:34:16] DB Copy: wp_6tj6vd_terms as wpstg1_terms from 0 to 10000 records
+[INFO]-[2019/07/15 00:34:16] DB Copy: Creating table wpstg1_terms
+[INFO]-[2019/07/15 00:34:16] DB Copy: wp_6tj6vd_terms as wpstg1_terms from 0 to 10000 records
+[INFO]-[2019/07/15 00:34:16] DB Copy: Creating table wpstg1_usermeta
+[INFO]-[2019/07/15 00:34:16] DB Copy: wp_6tj6vd_usermeta as wpstg1_usermeta from 0 to 10000 records
+[INFO]-[2019/07/15 00:34:16] DB Copy: Creating table wpstg1_usermeta
+[INFO]-[2019/07/15 00:34:16] DB Copy: wp_6tj6vd_usermeta as wpstg1_usermeta from 0 to 10000 records
+[INFO]-[2019/07/15 00:34:16] DB Copy: Creating table wpstg1_users
+[INFO]-[2019/07/15 00:34:16] DB Copy: wp_6tj6vd_users as wpstg1_users from 0 to 10000 records
+[INFO]-[2019/07/15 00:34:16] DB Copy: Creating table wpstg1_users
+[INFO]-[2019/07/15 00:34:16] DB Copy: wp_6tj6vd_users as wpstg1_users from 0 to 10000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/07/15 00:34:17] DB Processing:  Table wpstg1_comments 0 to 5000 records
+[INFO]-[2019/07/15 00:34:17] DB Processing:  Table wpstg1_comments 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/07/15 00:34:17] DB Processing:  Table wpstg1_options 0 to 5000 records
+[INFO]-[2019/07/15 00:34:17] DB Processing:  Table wpstg1_options 0 to 5000 records
+[INFO]-[2019/07/15 00:34:17] DB Processing:  Table wpstg1_postmeta 0 to 5000 records
+[INFO]-[2019/07/15 00:34:17] DB Processing:  Table wpstg1_postmeta 0 to 5000 records
+[INFO]-[2019/07/15 00:34:17] DB Processing:  Table wpstg1_posts 0 to 5000 records
+[INFO]-[2019/07/15 00:34:17] DB Processing:  Table wpstg1_posts 0 to 5000 records
+[INFO]-[2019/07/15 00:34:18] DB Processing:  Table wpstg1_revslider_css 0 to 5000 records
+[INFO]-[2019/07/15 00:34:18] DB Processing:  Table wpstg1_revslider_css 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/07/15 00:34:18] DB Processing:  Table wpstg1_term_relationships 0 to 5000 records
+[INFO]-[2019/07/15 00:34:18] DB Processing:  Table wpstg1_term_relationships 0 to 5000 records
+[INFO]-[2019/07/15 00:34:19] DB Processing:  Table wpstg1_term_taxonomy 0 to 5000 records
+[INFO]-[2019/07/15 00:34:19] DB Processing:  Table wpstg1_term_taxonomy 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/07/15 00:34:19] DB Processing:  Table wpstg1_terms 0 to 5000 records
+[INFO]-[2019/07/15 00:34:19] DB Processing:  Table wpstg1_terms 0 to 5000 records
+[INFO]-[2019/07/15 00:34:19] DB Processing:  Table wpstg1_usermeta 0 to 5000 records
+[INFO]-[2019/07/15 00:34:19] DB Processing:  Table wpstg1_usermeta 0 to 5000 records
+[INFO]-[2019/07/15 00:34:19] DB Processing:  Table wpstg1_users 0 to 5000 records
+[INFO]-[2019/07/15 00:34:19] DB Processing:  Table wpstg1_users 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/07/15 00:34:19] Scanning / for files
+[INFO]-[2019/07/15 00:34:19] Scanning / for files
+[INFO]-[2019/07/15 00:34:19] Scanning wp-content folder /home/bigbio/big-bio.org/wp-content
+[INFO]-[2019/07/15 00:34:19] Scanning wp-content folder /home/bigbio/big-bio.org/wp-content
+[INFO]-[2019/07/15 00:34:21] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2019/07/15 00:34:21] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2019/07/15 00:34:21] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2019/07/15 00:34:21] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2019/07/15 00:34:21] Copying files...
+[INFO]-[2019/07/15 00:34:22] Total 50 files processed
+[INFO]-[2019/07/15 00:34:21] Copying files...
+[INFO]-[2019/07/15 00:34:22] Total 50 files processed
+[INFO]-[2019/07/15 00:34:22] Total 100 files processed
+[INFO]-[2019/07/15 00:34:22] Total 100 files processed
+[INFO]-[2019/07/15 00:34:22] Total 150 files processed
+[INFO]-[2019/07/15 00:34:22] Total 150 files processed
+[INFO]-[2019/07/15 00:34:22] Total 200 files processed
+[INFO]-[2019/07/15 00:34:22] Total 200 files processed
+[INFO]-[2019/07/15 00:34:22] Total 250 files processed
+[INFO]-[2019/07/15 00:34:22] Total 250 files processed
+[INFO]-[2019/07/15 00:34:22] Total 300 files processed
+[INFO]-[2019/07/15 00:34:22] Total 300 files processed
+[INFO]-[2019/07/15 00:34:22] Total 350 files processed
+[INFO]-[2019/07/15 00:34:22] Total 350 files processed
+[INFO]-[2019/07/15 00:34:23] Total 400 files processed
+[INFO]-[2019/07/15 00:34:23] Total 400 files processed
+[INFO]-[2019/07/15 00:34:23] Total 450 files processed
+[INFO]-[2019/07/15 00:34:23] Total 450 files processed
+[INFO]-[2019/07/15 00:34:23] Total 500 files processed
+[INFO]-[2019/07/15 00:34:23] Total 500 files processed
+[INFO]-[2019/07/15 00:34:23] Total 550 files processed
+[INFO]-[2019/07/15 00:34:23] Total 550 files processed
+[INFO]-[2019/07/15 00:34:23] Total 600 files processed
+[INFO]-[2019/07/15 00:34:23] Total 600 files processed
+[INFO]-[2019/07/15 00:34:23] Total 650 files processed
+[INFO]-[2019/07/15 00:34:23] Total 650 files processed
+[INFO]-[2019/07/15 00:34:23] Total 700 files processed
+[INFO]-[2019/07/15 00:34:23] Total 700 files processed
+[INFO]-[2019/07/15 00:34:24] Total 750 files processed
+[INFO]-[2019/07/15 00:34:24] Total 750 files processed
+[INFO]-[2019/07/15 00:34:24] Total 800 files processed
+[INFO]-[2019/07/15 00:34:24] Total 800 files processed
+[INFO]-[2019/07/15 00:34:24] Total 850 files processed
+[INFO]-[2019/07/15 00:34:24] Total 850 files processed
+[INFO]-[2019/07/15 00:34:24] Total 900 files processed
+[INFO]-[2019/07/15 00:34:24] Total 900 files processed
+[INFO]-[2019/07/15 00:34:24] Total 950 files processed
+[INFO]-[2019/07/15 00:34:24] Total 950 files processed
+[INFO]-[2019/07/15 00:34:24] Total 1000 files processed
+[INFO]-[2019/07/15 00:34:24] Total 1000 files processed
+[INFO]-[2019/07/15 00:34:25] Total 1050 files processed
+[INFO]-[2019/07/15 00:34:25] Total 1050 files processed
+[INFO]-[2019/07/15 00:34:25] Total 1100 files processed
+[INFO]-[2019/07/15 00:34:25] Total 1100 files processed
+[INFO]-[2019/07/15 00:34:25] Total 1150 files processed
+[INFO]-[2019/07/15 00:34:25] Total 1150 files processed
+[INFO]-[2019/07/15 00:34:25] Total 1200 files processed
+[INFO]-[2019/07/15 00:34:25] Total 1200 files processed
+[INFO]-[2019/07/15 00:34:25] Total 1250 files processed
+[INFO]-[2019/07/15 00:34:25] Total 1250 files processed
+[INFO]-[2019/07/15 00:34:25] Total 1300 files processed
+[INFO]-[2019/07/15 00:34:25] Total 1300 files processed
+[INFO]-[2019/07/15 00:34:25] Total 1350 files processed
+[INFO]-[2019/07/15 00:34:25] Total 1350 files processed
+[INFO]-[2019/07/15 00:34:26] Total 1400 files processed
+[INFO]-[2019/07/15 00:34:26] Total 1400 files processed
+[INFO]-[2019/07/15 00:34:26] Total 1450 files processed
+[INFO]-[2019/07/15 00:34:26] Total 1450 files processed
+[INFO]-[2019/07/15 00:34:26] Total 1500 files processed
+[INFO]-[2019/07/15 00:34:26] Total 1500 files processed
+[INFO]-[2019/07/15 00:34:26] Total 1550 files processed
+[INFO]-[2019/07/15 00:34:26] Total 1550 files processed
+[INFO]-[2019/07/15 00:34:26] Total 1600 files processed
+[INFO]-[2019/07/15 00:34:26] Total 1600 files processed
+[INFO]-[2019/07/15 00:34:26] Total 1650 files processed
+[INFO]-[2019/07/15 00:34:26] Total 1650 files processed
+[INFO]-[2019/07/15 00:34:27] Total 1700 files processed
+[INFO]-[2019/07/15 00:34:27] Total 1700 files processed
+[INFO]-[2019/07/15 00:34:27] Total 1750 files processed
+[INFO]-[2019/07/15 00:34:27] Total 1750 files processed
+[INFO]-[2019/07/15 00:34:27] Total 1800 files processed
+[INFO]-[2019/07/15 00:34:27] Total 1800 files processed
+[INFO]-[2019/07/15 00:34:27] Total 1850 files processed
+[INFO]-[2019/07/15 00:34:27] Total 1850 files processed
+[INFO]-[2019/07/15 00:34:27] Total 1900 files processed
+[INFO]-[2019/07/15 00:34:27] Total 1900 files processed
+[INFO]-[2019/07/15 00:34:27] Total 1950 files processed
+[INFO]-[2019/07/15 00:34:27] Total 1950 files processed
+[INFO]-[2019/07/15 00:34:28] Total 2000 files processed
+[INFO]-[2019/07/15 00:34:28] Total 2000 files processed
+[INFO]-[2019/07/15 00:34:28] Total 2050 files processed
+[INFO]-[2019/07/15 00:34:28] Total 2050 files processed
+[INFO]-[2019/07/15 00:34:28] Total 2100 files processed
+[INFO]-[2019/07/15 00:34:28] Total 2100 files processed
+[INFO]-[2019/07/15 00:34:28] Total 2150 files processed
+[INFO]-[2019/07/15 00:34:28] Total 2150 files processed
+[INFO]-[2019/07/15 00:34:28] Total 2200 files processed
+[INFO]-[2019/07/15 00:34:28] Total 2200 files processed
+[INFO]-[2019/07/15 00:34:28] Total 2250 files processed
+[INFO]-[2019/07/15 00:34:28] Total 2250 files processed
+[INFO]-[2019/07/15 00:34:28] Total 2300 files processed
+[INFO]-[2019/07/15 00:34:28] Total 2300 files processed
+[INFO]-[2019/07/15 00:34:29] Total 2350 files processed
+[INFO]-[2019/07/15 00:34:29] Total 2350 files processed
+[INFO]-[2019/07/15 00:34:29] Total 2400 files processed
+[INFO]-[2019/07/15 00:34:29] Total 2400 files processed
+[INFO]-[2019/07/15 00:34:29] Total 2450 files processed
+[INFO]-[2019/07/15 00:34:29] Total 2450 files processed
+[INFO]-[2019/07/15 00:34:29] Total 2500 files processed
+[INFO]-[2019/07/15 00:34:29] Total 2500 files processed
+[INFO]-[2019/07/15 00:34:29] Total 2550 files processed
+[INFO]-[2019/07/15 00:34:29] Total 2550 files processed
+[INFO]-[2019/07/15 00:34:29] Total 2600 files processed
+[INFO]-[2019/07/15 00:34:29] Total 2600 files processed
+[INFO]-[2019/07/15 00:34:30] Total 2650 files processed
+[INFO]-[2019/07/15 00:34:30] Total 2650 files processed
+[INFO]-[2019/07/15 00:34:30] Total 2700 files processed
+[INFO]-[2019/07/15 00:34:30] Total 2700 files processed
+[INFO]-[2019/07/15 00:34:30] Total 2750 files processed
+[INFO]-[2019/07/15 00:34:30] Total 2750 files processed
+[INFO]-[2019/07/15 00:34:30] Total 2800 files processed
+[INFO]-[2019/07/15 00:34:30] Total 2800 files processed
+[INFO]-[2019/07/15 00:34:30] Total 2850 files processed
+[INFO]-[2019/07/15 00:34:30] Total 2850 files processed
+[INFO]-[2019/07/15 00:34:30] Total 2900 files processed
+[INFO]-[2019/07/15 00:34:30] Total 2900 files processed
+[INFO]-[2019/07/15 00:34:31] Total 2950 files processed
+[INFO]-[2019/07/15 00:34:31] Total 2950 files processed
+[INFO]-[2019/07/15 00:34:31] Total 3000 files processed
+[INFO]-[2019/07/15 00:34:31] Total 3000 files processed
+[INFO]-[2019/07/15 00:34:31] Total 3050 files processed
+[INFO]-[2019/07/15 00:34:31] Total 3050 files processed
+[INFO]-[2019/07/15 00:34:31] Total 3100 files processed
+[INFO]-[2019/07/15 00:34:31] Total 3100 files processed
+[INFO]-[2019/07/15 00:34:31] Total 3150 files processed
+[INFO]-[2019/07/15 00:34:31] Total 3150 files processed
+[INFO]-[2019/07/15 00:34:31] Total 3200 files processed
+[INFO]-[2019/07/15 00:34:31] Total 3200 files processed
+[INFO]-[2019/07/15 00:34:32] Total 3250 files processed
+[INFO]-[2019/07/15 00:34:32] Total 3250 files processed
+[INFO]-[2019/07/15 00:34:32] Total 3300 files processed
+[INFO]-[2019/07/15 00:34:32] Total 3300 files processed
+[INFO]-[2019/07/15 00:34:32] Total 3350 files processed
+[INFO]-[2019/07/15 00:34:32] Total 3350 files processed
+[INFO]-[2019/07/15 00:34:32] Total 3400 files processed
+[INFO]-[2019/07/15 00:34:32] Total 3400 files processed
+[INFO]-[2019/07/15 00:34:32] Total 3450 files processed
+[INFO]-[2019/07/15 00:34:32] Total 3450 files processed
+[INFO]-[2019/07/15 00:34:32] Total 3500 files processed
+[INFO]-[2019/07/15 00:34:32] Total 3500 files processed
+[INFO]-[2019/07/15 00:34:32] Total 3550 files processed
+[INFO]-[2019/07/15 00:34:32] Total 3550 files processed
+[INFO]-[2019/07/15 00:34:33] Total 3600 files processed
+[INFO]-[2019/07/15 00:34:33] Total 3600 files processed
+[INFO]-[2019/07/15 00:34:33] Total 3650 files processed
+[INFO]-[2019/07/15 00:34:33] Total 3650 files processed
+[INFO]-[2019/07/15 00:34:33] Total 3700 files processed
+[INFO]-[2019/07/15 00:34:33] Total 3700 files processed
+[INFO]-[2019/07/15 00:34:33] Total 3750 files processed
+[INFO]-[2019/07/15 00:34:33] Total 3750 files processed
+[INFO]-[2019/07/15 00:34:33] Total 3800 files processed
+[INFO]-[2019/07/15 00:34:33] Total 3800 files processed
+[INFO]-[2019/07/15 00:34:33] Total 3850 files processed
+[INFO]-[2019/07/15 00:34:33] Total 3850 files processed
+[INFO]-[2019/07/15 00:34:34] Total 3900 files processed
+[INFO]-[2019/07/15 00:34:34] Total 3900 files processed
+[INFO]-[2019/07/15 00:34:34] Total 3950 files processed
+[INFO]-[2019/07/15 00:34:34] Total 3950 files processed
+[INFO]-[2019/07/15 00:34:34] Total 4000 files processed
+[INFO]-[2019/07/15 00:34:34] Total 4000 files processed
+[INFO]-[2019/07/15 00:34:34] Total 4050 files processed
+[INFO]-[2019/07/15 00:34:34] Total 4050 files processed
+[INFO]-[2019/07/15 00:34:34] Total 4100 files processed
+[INFO]-[2019/07/15 00:34:34] Total 4100 files processed
+[INFO]-[2019/07/15 00:34:34] Total 4150 files processed
+[INFO]-[2019/07/15 00:34:34] Total 4150 files processed
+[INFO]-[2019/07/15 00:34:34] Total 4200 files processed
+[INFO]-[2019/07/15 00:34:34] Total 4200 files processed
+[INFO]-[2019/07/15 00:34:35] Total 4250 files processed
+[INFO]-[2019/07/15 00:34:35] Total 4250 files processed
+[INFO]-[2019/07/15 00:34:35] Total 4300 files processed
+[INFO]-[2019/07/15 00:34:35] Total 4300 files processed
+[INFO]-[2019/07/15 00:34:35] Total 4350 files processed
+[INFO]-[2019/07/15 00:34:35] Total 4350 files processed
+[INFO]-[2019/07/15 00:34:35] Total 4400 files processed
+[INFO]-[2019/07/15 00:34:35] Total 4400 files processed
+[INFO]-[2019/07/15 00:34:35] Total 4450 files processed
+[INFO]-[2019/07/15 00:34:35] Total 4450 files processed
+[INFO]-[2019/07/15 00:34:35] Total 4500 files processed
+[INFO]-[2019/07/15 00:34:35] Total 4500 files processed
+[INFO]-[2019/07/15 00:34:35] Total 4550 files processed
+[INFO]-[2019/07/15 00:34:35] Total 4550 files processed
+[INFO]-[2019/07/15 00:34:36] Total 4600 files processed
+[INFO]-[2019/07/15 00:34:36] Total 4600 files processed
+[INFO]-[2019/07/15 00:34:36] Total 4650 files processed
+[INFO]-[2019/07/15 00:34:36] Total 4650 files processed
+[INFO]-[2019/07/15 00:34:36] Total 4700 files processed
+[INFO]-[2019/07/15 00:34:36] Total 4700 files processed
+[INFO]-[2019/07/15 00:34:36] Total 4750 files processed
+[INFO]-[2019/07/15 00:34:36] Total 4750 files processed
+[INFO]-[2019/07/15 00:34:36] Total 4800 files processed
+[INFO]-[2019/07/15 00:34:36] Total 4800 files processed
+[INFO]-[2019/07/15 00:34:36] Total 4850 files processed
+[INFO]-[2019/07/15 00:34:36] Total 4850 files processed
+[INFO]-[2019/07/15 00:34:37] Total 4900 files processed
+[INFO]-[2019/07/15 00:34:37] Total 4900 files processed
+[INFO]-[2019/07/15 00:34:37] Total 4950 files processed
+[INFO]-[2019/07/15 00:34:37] Total 4950 files processed
+[INFO]-[2019/07/15 00:34:37] Total 5000 files processed
+[INFO]-[2019/07/15 00:34:37] Total 5000 files processed
+[INFO]-[2019/07/15 00:34:37] Total 5050 files processed
+[INFO]-[2019/07/15 00:34:37] Total 5050 files processed
+[INFO]-[2019/07/15 00:34:37] Total 5100 files processed
+[INFO]-[2019/07/15 00:34:37] Total 5100 files processed
+[INFO]-[2019/07/15 00:34:37] Total 5150 files processed
+[INFO]-[2019/07/15 00:34:37] Total 5150 files processed
+[INFO]-[2019/07/15 00:34:37] Total 5200 files processed
+[INFO]-[2019/07/15 00:34:37] Total 5200 files processed
+[INFO]-[2019/07/15 00:34:38] Total 5250 files processed
+[INFO]-[2019/07/15 00:34:38] Total 5250 files processed
+[INFO]-[2019/07/15 00:34:38] Total 5300 files processed
+[INFO]-[2019/07/15 00:34:38] Total 5300 files processed
+[INFO]-[2019/07/15 00:34:38] Total 5350 files processed
+[INFO]-[2019/07/15 00:34:38] Total 5350 files processed
+[INFO]-[2019/07/15 00:34:38] Total 5400 files processed
+[INFO]-[2019/07/15 00:34:38] Total 5400 files processed
+[INFO]-[2019/07/15 00:34:38] Total 5450 files processed
+[INFO]-[2019/07/15 00:34:38] Total 5450 files processed
+[INFO]-[2019/07/15 00:34:38] Total 5500 files processed
+[INFO]-[2019/07/15 00:34:38] Total 5500 files processed
+[INFO]-[2019/07/15 00:34:39] Total 5550 files processed
+[INFO]-[2019/07/15 00:34:39] Total 5550 files processed
+[INFO]-[2019/07/15 00:34:39] Total 5600 files processed
+[INFO]-[2019/07/15 00:34:39] Total 5600 files processed
+[INFO]-[2019/07/15 00:34:39] Total 5650 files processed
+[INFO]-[2019/07/15 00:34:39] Total 5650 files processed
+[INFO]-[2019/07/15 00:34:39] Total 5700 files processed
+[INFO]-[2019/07/15 00:34:39] Total 5700 files processed
+[INFO]-[2019/07/15 00:34:39] Total 5750 files processed
+[INFO]-[2019/07/15 00:34:39] Total 5750 files processed
+[INFO]-[2019/07/15 00:34:39] Total 5800 files processed
+[INFO]-[2019/07/15 00:34:39] Total 5800 files processed
+[INFO]-[2019/07/15 00:34:39] Total 5850 files processed
+[INFO]-[2019/07/15 00:34:39] Total 5850 files processed
+[INFO]-[2019/07/15 00:34:40] Total 5900 files processed
+[INFO]-[2019/07/15 00:34:40] Total 5900 files processed
+[INFO]-[2019/07/15 00:34:40] Total 5950 files processed
+[INFO]-[2019/07/15 00:34:40] Total 5950 files processed
+[INFO]-[2019/07/15 00:34:40] Total 6000 files processed
+[INFO]-[2019/07/15 00:34:40] Total 6000 files processed
+[INFO]-[2019/07/15 00:34:40] Total 6050 files processed
+[INFO]-[2019/07/15 00:34:40] Total 6050 files processed
+[INFO]-[2019/07/15 00:34:40] Total 6100 files processed
+[INFO]-[2019/07/15 00:34:40] Total 6100 files processed
+[INFO]-[2019/07/15 00:34:40] Total 6150 files processed
+[INFO]-[2019/07/15 00:34:40] Total 6150 files processed
+[INFO]-[2019/07/15 00:34:41] Total 6200 files processed
+[INFO]-[2019/07/15 00:34:41] Total 6200 files processed
+[INFO]-[2019/07/15 00:34:41] Total 6250 files processed
+[INFO]-[2019/07/15 00:34:41] Total 6250 files processed
+[INFO]-[2019/07/15 00:34:41] Total 6300 files processed
+[INFO]-[2019/07/15 00:34:41] Total 6300 files processed
+[INFO]-[2019/07/15 00:34:41] Total 6350 files processed
+[INFO]-[2019/07/15 00:34:41] Total 6350 files processed
+[INFO]-[2019/07/15 00:34:41] Total 6400 files processed
+[INFO]-[2019/07/15 00:34:41] Total 6400 files processed
+[INFO]-[2019/07/15 00:34:41] Total 6450 files processed
+[INFO]-[2019/07/15 00:34:41] Total 6450 files processed
+[INFO]-[2019/07/15 00:34:41] Total 6500 files processed
+[INFO]-[2019/07/15 00:34:41] Total 6500 files processed
+[INFO]-[2019/07/15 00:34:42] Total 6550 files processed
+[INFO]-[2019/07/15 00:34:42] Total 6550 files processed
+[INFO]-[2019/07/15 00:34:42] Total 6600 files processed
+[INFO]-[2019/07/15 00:34:42] Total 6600 files processed
+[INFO]-[2019/07/15 00:34:42] Total 6650 files processed
+[INFO]-[2019/07/15 00:34:42] Total 6650 files processed
+[INFO]-[2019/07/15 00:34:42] Total 6700 files processed
+[INFO]-[2019/07/15 00:34:42] Total 6700 files processed
+[INFO]-[2019/07/15 00:34:42] Total 6750 files processed
+[INFO]-[2019/07/15 00:34:42] Total 6750 files processed
+[INFO]-[2019/07/15 00:34:42] Total 6800 files processed
+[INFO]-[2019/07/15 00:34:42] Total 6800 files processed
+[INFO]-[2019/07/15 00:34:42] Total 6850 files processed
+[INFO]-[2019/07/15 00:34:42] Total 6850 files processed
+[INFO]-[2019/07/15 00:34:43] Total 6900 files processed
+[INFO]-[2019/07/15 00:34:43] Total 6900 files processed
+[INFO]-[2019/07/15 00:34:43] Total 6950 files processed
+[INFO]-[2019/07/15 00:34:43] Total 6950 files processed
+[INFO]-[2019/07/15 00:34:43] Total 7000 files processed
+[INFO]-[2019/07/15 00:34:43] Total 7000 files processed
+[INFO]-[2019/07/15 00:34:43] Total 7050 files processed
+[INFO]-[2019/07/15 00:34:43] Total 7050 files processed
+[INFO]-[2019/07/15 00:34:43] Total 7100 files processed
+[INFO]-[2019/07/15 00:34:43] Total 7100 files processed
+[INFO]-[2019/07/15 00:34:43] Total 7150 files processed
+[INFO]-[2019/07/15 00:34:43] Total 7150 files processed
+[INFO]-[2019/07/15 00:34:43] Total 7200 files processed
+[INFO]-[2019/07/15 00:34:43] Total 7200 files processed
+[INFO]-[2019/07/15 00:34:44] Total 7250 files processed
+[INFO]-[2019/07/15 00:34:44] Total 7250 files processed
+[INFO]-[2019/07/15 00:34:44] Total 7300 files processed
+[INFO]-[2019/07/15 00:34:44] Total 7300 files processed
+[INFO]-[2019/07/15 00:34:44] Total 7350 files processed
+[INFO]-[2019/07/15 00:34:44] Total 7350 files processed
+[INFO]-[2019/07/15 00:34:44] Trying to copy big file: /home/bigbio/big-bio.org/wp-content/themes/betheme/plugins/js_composer.zip -> /home/bigbio/big-bio.org/testing/wp-content/themes/betheme/plugins/js_composer.zip
+[INFO]-[2019/07/15 00:34:44] Trying to copy big file: /home/bigbio/big-bio.org/wp-content/themes/betheme/plugins/revslider.zip -> /home/bigbio/big-bio.org/testing/wp-content/themes/betheme/plugins/revslider.zip
+[INFO]-[2019/07/15 00:34:44] Total 7400 files processed
+[INFO]-[2019/07/15 00:34:44] Trying to copy big file: /home/bigbio/big-bio.org/wp-content/themes/betheme/plugins/js_composer.zip -> /home/bigbio/big-bio.org/testing/wp-content/themes/betheme/plugins/js_composer.zip
+[INFO]-[2019/07/15 00:34:44] Trying to copy big file: /home/bigbio/big-bio.org/wp-content/themes/betheme/plugins/revslider.zip -> /home/bigbio/big-bio.org/testing/wp-content/themes/betheme/plugins/revslider.zip
+[INFO]-[2019/07/15 00:34:44] Total 7400 files processed
+[INFO]-[2019/07/15 00:34:44] Total 7450 files processed
+[INFO]-[2019/07/15 00:34:44] Total 7450 files processed
+[INFO]-[2019/07/15 00:34:44] Total 7500 files processed
+[INFO]-[2019/07/15 00:34:44] Total 7500 files processed
+[INFO]-[2019/07/15 00:34:45] Total 7550 files processed
+[INFO]-[2019/07/15 00:34:45] Total 7550 files processed
+[INFO]-[2019/07/15 00:34:45] Total 7600 files processed
+[INFO]-[2019/07/15 00:34:45] Total 7600 files processed
+[INFO]-[2019/07/15 00:34:45] Total 7650 files processed
+[INFO]-[2019/07/15 00:34:45] Total 7650 files processed
+[INFO]-[2019/07/15 00:34:45] Total 7700 files processed
+[INFO]-[2019/07/15 00:34:45] Total 7700 files processed
+[INFO]-[2019/07/15 00:34:45] Total 7750 files processed
+[INFO]-[2019/07/15 00:34:45] Total 7750 files processed
+[INFO]-[2019/07/15 00:34:45] Total 7800 files processed
+[INFO]-[2019/07/15 00:34:45] Total 7800 files processed
+[INFO]-[2019/07/15 00:34:46] Total 7850 files processed
+[INFO]-[2019/07/15 00:34:46] Total 7850 files processed
+[INFO]-[2019/07/15 00:34:46] Total 7900 files processed
+[INFO]-[2019/07/15 00:34:46] Total 7900 files processed
+[INFO]-[2019/07/15 00:34:46] Total 7950 files processed
+[INFO]-[2019/07/15 00:34:46] Total 7950 files processed
+[INFO]-[2019/07/15 00:34:46] Total 8000 files processed
+[INFO]-[2019/07/15 00:34:46] Total 8000 files processed
+[INFO]-[2019/07/15 00:34:46] Total 8050 files processed
+[INFO]-[2019/07/15 00:34:46] Total 8050 files processed
+[INFO]-[2019/07/15 00:34:46] Total 8100 files processed
+[INFO]-[2019/07/15 00:34:46] Total 8100 files processed
+[INFO]-[2019/07/15 00:34:46] Total 8150 files processed
+[INFO]-[2019/07/15 00:34:46] Total 8150 files processed
+[INFO]-[2019/07/15 00:34:47] Total 8200 files processed
+[INFO]-[2019/07/15 00:34:47] Total 8200 files processed
+[INFO]-[2019/07/15 00:34:47] Total 8250 files processed
+[INFO]-[2019/07/15 00:34:47] Total 8250 files processed
+[INFO]-[2019/07/15 00:34:47] Total 8300 files processed
+[INFO]-[2019/07/15 00:34:47] Total 8300 files processed
+[INFO]-[2019/07/15 00:34:47] Total 8350 files processed
+[INFO]-[2019/07/15 00:34:47] Total 8350 files processed
+[INFO]-[2019/07/15 00:34:47] Total 8400 files processed
+[INFO]-[2019/07/15 00:34:47] Total 8400 files processed
+[INFO]-[2019/07/15 00:34:47] Total 8450 files processed
+[INFO]-[2019/07/15 00:34:47] Total 8450 files processed
+[INFO]-[2019/07/15 00:34:48] Total 8500 files processed
+[INFO]-[2019/07/15 00:34:48] Total 8500 files processed
+[INFO]-[2019/07/15 00:34:48] Total 8550 files processed
+[INFO]-[2019/07/15 00:34:48] Total 8550 files processed
+[INFO]-[2019/07/15 00:34:48] Total 8600 files processed
+[INFO]-[2019/07/15 00:34:48] Total 8600 files processed
+[INFO]-[2019/07/15 00:34:48] Total 8650 files processed
+[INFO]-[2019/07/15 00:34:48] Total 8650 files processed
+[INFO]-[2019/07/15 00:34:48] Total 8700 files processed
+[INFO]-[2019/07/15 00:34:48] Total 8700 files processed
+[INFO]-[2019/07/15 00:34:48] Total 8750 files processed
+[INFO]-[2019/07/15 00:34:48] Total 8750 files processed
+[INFO]-[2019/07/15 00:34:48] Total 8800 files processed
+[INFO]-[2019/07/15 00:34:48] Total 8800 files processed
+[INFO]-[2019/07/15 00:34:49] Trying to copy big file: /home/bigbio/big-bio.org/wp-content/uploads/2019/05/CommonConventions.pdf -> /home/bigbio/big-bio.org/testing/wp-content/uploads/2019/05/CommonConventions.pdf
+[INFO]-[2019/07/15 00:34:49] Total 8850 files processed
+[INFO]-[2019/07/15 00:34:49] Trying to copy big file: /home/bigbio/big-bio.org/wp-content/uploads/2019/05/CommonConventions.pdf -> /home/bigbio/big-bio.org/testing/wp-content/uploads/2019/05/CommonConventions.pdf
+[INFO]-[2019/07/15 00:34:49] Total 8850 files processed
+[INFO]-[2019/07/15 00:34:49] Total 8900 files processed
+[INFO]-[2019/07/15 00:34:49] Total 8900 files processed
+[INFO]-[2019/07/15 00:34:49] Total 8950 files processed
+[INFO]-[2019/07/15 00:34:49] Total 8950 files processed
+[INFO]-[2019/07/15 00:34:49] Total 9000 files processed
+[INFO]-[2019/07/15 00:34:49] Total 9000 files processed
+[INFO]-[2019/07/15 00:34:49] Total 9050 files processed
+[INFO]-[2019/07/15 00:34:49] Total 9050 files processed
+[INFO]-[2019/07/15 00:34:49] Total 9100 files processed
+[INFO]-[2019/07/15 00:34:49] Total 9100 files processed
+[INFO]-[2019/07/15 00:34:49] Trying to copy big file: /home/bigbio/big-bio.org/wp-content/uploads/2019/06/profile_pic.jpg -> /home/bigbio/big-bio.org/testing/wp-content/uploads/2019/06/profile_pic.jpg
+[INFO]-[2019/07/15 00:34:50] Total 9150 files processed
+[INFO]-[2019/07/15 00:34:49] Trying to copy big file: /home/bigbio/big-bio.org/wp-content/uploads/2019/06/profile_pic.jpg -> /home/bigbio/big-bio.org/testing/wp-content/uploads/2019/06/profile_pic.jpg
+[INFO]-[2019/07/15 00:34:50] Total 9150 files processed
+[INFO]-[2019/07/15 00:34:50] Total 9200 files processed
+[INFO]-[2019/07/15 00:34:50] Total 9200 files processed
+[INFO]-[2019/07/15 00:34:50] Total 9250 files processed
+[INFO]-[2019/07/15 00:34:50] Total 9250 files processed
+[INFO]-[2019/07/15 00:34:50] Trying to copy big file: /home/bigbio/big-bio.org/wp-content/uploads/2019/07/Garske_headshot.jpg -> /home/bigbio/big-bio.org/testing/wp-content/uploads/2019/07/Garske_headshot.jpg
+[INFO]-[2019/07/15 00:34:50] Total 9300 files processed
+[INFO]-[2019/07/15 00:34:50] Trying to copy big file: /home/bigbio/big-bio.org/wp-content/uploads/2019/07/Garske_headshot.jpg -> /home/bigbio/big-bio.org/testing/wp-content/uploads/2019/07/Garske_headshot.jpg
+[INFO]-[2019/07/15 00:34:50] Total 9300 files processed
+[INFO]-[2019/07/15 00:34:50] Total 9350 files processed
+[INFO]-[2019/07/15 00:34:50] Total 9350 files processed
+[INFO]-[2019/07/15 00:34:50] Total 9400 files processed
+[INFO]-[2019/07/15 00:34:50] Total 9400 files processed
+[INFO]-[2019/07/15 00:34:50] Skipping big file: /home/bigbio/big-bio.org/wp-content/ai1wm-backups/www.big-bio.org-20190714-210922-515.wpress
+[INFO]-[2019/07/15 00:34:50] Skipping big file: /home/bigbio/big-bio.org/wp-content/ai1wm-backups/www.big-bio.org-20190715-000721-240.wpress
+[INFO]-[2019/07/15 00:34:50] Skipping big file: /home/bigbio/big-bio.org/wp-content/ai1wm-backups/www.big-bio.org-20190715-000803-945.wpress
+[INFO]-[2019/07/15 00:34:50] Skipping big file: /home/bigbio/big-bio.org/wp-content/ai1wm-backups/www.big-bio.org-20190715-000813-969.wpress
+[INFO]-[2019/07/15 00:34:50] Skipping big file: /home/bigbio/big-bio.org/wp-content/ai1wm-backups/www.big-bio.org-20190715-000826-474.wpress
+[INFO]-[2019/07/15 00:34:50] Total 9450 files processed
+[INFO]-[2019/07/15 00:34:50] Skipping big file: /home/bigbio/big-bio.org/wp-content/ai1wm-backups/www.big-bio.org-20190714-210922-515.wpress
+[INFO]-[2019/07/15 00:34:50] Skipping big file: /home/bigbio/big-bio.org/wp-content/ai1wm-backups/www.big-bio.org-20190715-000721-240.wpress
+[INFO]-[2019/07/15 00:34:50] Skipping big file: /home/bigbio/big-bio.org/wp-content/ai1wm-backups/www.big-bio.org-20190715-000803-945.wpress
+[INFO]-[2019/07/15 00:34:50] Skipping big file: /home/bigbio/big-bio.org/wp-content/ai1wm-backups/www.big-bio.org-20190715-000813-969.wpress
+[INFO]-[2019/07/15 00:34:50] Skipping big file: /home/bigbio/big-bio.org/wp-content/ai1wm-backups/www.big-bio.org-20190715-000826-474.wpress
+[INFO]-[2019/07/15 00:34:50] Total 9450 files processed
+[INFO]-[2019/07/15 00:34:51] Total 9500 files processed
+[INFO]-[2019/07/15 00:34:51] Total 9500 files processed
+[INFO]-[2019/07/15 00:34:51] Total 9550 files processed
+[INFO]-[2019/07/15 00:34:51] Total 9550 files processed
+[INFO]-[2019/07/15 00:34:51] Total 9600 files processed
+[INFO]-[2019/07/15 00:34:51] Total 9600 files processed
+[INFO]-[2019/07/15 00:34:51] Total 9650 files processed
+[INFO]-[2019/07/15 00:34:51] Total 9650 files processed
+[INFO]-[2019/07/15 00:34:51] Total 9700 files processed
+[INFO]-[2019/07/15 00:34:51] Total 9700 files processed
+[INFO]-[2019/07/15 00:34:51] Total 9750 files processed
+[INFO]-[2019/07/15 00:34:51] Total 9750 files processed
+[INFO]-[2019/07/15 00:34:52] Total 9800 files processed
+[INFO]-[2019/07/15 00:34:52] Total 9800 files processed
+[INFO]-[2019/07/15 00:34:52] Total 9850 files processed
+[INFO]-[2019/07/15 00:34:52] Total 9850 files processed
+[INFO]-[2019/07/15 00:34:52] Total 9900 files processed
+[INFO]-[2019/07/15 00:34:52] Total 9900 files processed
+[INFO]-[2019/07/15 00:34:52] Total 9950 files processed
+[INFO]-[2019/07/15 00:34:52] Total 9950 files processed
+[INFO]-[2019/07/15 00:34:52] Total 10000 files processed
+[INFO]-[2019/07/15 00:34:52] Total 10000 files processed
+[INFO]-[2019/07/15 00:34:52] Total 10050 files processed
+[INFO]-[2019/07/15 00:34:52] Total 10050 files processed
+[INFO]-[2019/07/15 00:34:53] Total 10100 files processed
+[INFO]-[2019/07/15 00:34:53] Total 10100 files processed
+[INFO]-[2019/07/15 00:34:53] Total 10150 files processed
+[INFO]-[2019/07/15 00:34:53] Total 10150 files processed
+[INFO]-[2019/07/15 00:34:53] Total 10200 files processed
+[INFO]-[2019/07/15 00:34:53] Total 10200 files processed
+[INFO]-[2019/07/15 00:34:53] Total 10250 files processed
+[INFO]-[2019/07/15 00:34:53] Total 10250 files processed
+[INFO]-[2019/07/15 00:34:53] Total 10300 files processed
+[INFO]-[2019/07/15 00:34:53] Total 10300 files processed
+[INFO]-[2019/07/15 00:34:53] Total 10350 files processed
+[INFO]-[2019/07/15 00:34:53] Total 10350 files processed
+[INFO]-[2019/07/15 00:34:54] Total 10400 files processed
+[INFO]-[2019/07/15 00:34:54] Total 10400 files processed
+[INFO]-[2019/07/15 00:34:54] Total 10450 files processed
+[INFO]-[2019/07/15 00:34:54] Total 10450 files processed
+[INFO]-[2019/07/15 00:34:54] Total 10500 files processed
+[INFO]-[2019/07/15 00:34:54] Total 10500 files processed
+[INFO]-[2019/07/15 00:34:54] Total 10550 files processed
+[INFO]-[2019/07/15 00:34:54] Total 10550 files processed
+[INFO]-[2019/07/15 00:34:54] Total 10600 files processed
+[INFO]-[2019/07/15 00:34:54] Total 10600 files processed
+[INFO]-[2019/07/15 00:34:54] Total 10650 files processed
+[INFO]-[2019/07/15 00:34:54] Total 10650 files processed
+[INFO]-[2019/07/15 00:34:55] Total 10700 files processed
+[INFO]-[2019/07/15 00:34:55] Total 10700 files processed
+[INFO]-[2019/07/15 00:34:55] Total 10750 files processed
+[INFO]-[2019/07/15 00:34:55] Total 10750 files processed
+[INFO]-[2019/07/15 00:34:55] Total 10800 files processed
+[INFO]-[2019/07/15 00:34:55] Total 10800 files processed
+[INFO]-[2019/07/15 00:34:55] Total 10850 files processed
+[INFO]-[2019/07/15 00:34:55] Total 10850 files processed
+[INFO]-[2019/07/15 00:34:55] Total 10900 files processed
+[INFO]-[2019/07/15 00:34:55] Total 10900 files processed
+[INFO]-[2019/07/15 00:34:55] Total 10950 files processed
+[INFO]-[2019/07/15 00:34:55] Total 10950 files processed
+[INFO]-[2019/07/15 00:34:55] Total 11000 files processed
+[INFO]-[2019/07/15 00:34:55] Total 11000 files processed
+[WARNING]-[2019/07/15 00:34:56] File doesn't exist /home/bigbio/big-bio.org/
+[WARNING]-[2019/07/15 00:34:56] File doesn't exist /home/bigbio/big-bio.org/
+[INFO]-[2019/07/15 00:34:56] Copying files finished
+[INFO]-[2019/07/15 00:34:56] Copying files finished
+[INFO]-[2019/07/15 00:34:56] Preparing Data Step0: Copy wp-config.php file
+[INFO]-[2019/07/15 00:34:56] Preparing Data Step0: Copy wp-config.php file
+[INFO]-[2019/07/15 00:34:56] Preparing Data Step1: Updating siteurl and homeurl in wpstg1_options 
+[INFO]-[2019/07/15 00:34:56] Preparing Data Step1: Updating siteurl and homeurl to http://www.big-bio.org/testing
+[INFO]-[2019/07/15 00:34:56] Preparing Data Step1: Updating siteurl and homeurl in wpstg1_options 
+[INFO]-[2019/07/15 00:34:56] Preparing Data Step1: Updating siteurl and homeurl to http://www.big-bio.org/testing
+[INFO]-[2019/07/15 00:34:56] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg1_options 
+[INFO]-[2019/07/15 00:34:56] Preparing Data Step2: Successfull
+[INFO]-[2019/07/15 00:34:56] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg1_options 
+[INFO]-[2019/07/15 00:34:56] Preparing Data Step2: Successfull
+[INFO]-[2019/07/15 00:34:56] Preparing Data Step3: Updating rewrite_rules in wpstg1_options 
+[INFO]-[2019/07/15 00:34:56] Preparing Data Step3: Updating rewrite_rules in wpstg1_options 
+[INFO]-[2019/07/15 00:34:56] Preparing Data Step4: Updating db prefix in wpstg1_usermeta. 
+[INFO]-[2019/07/15 00:34:56] Preparing Data Step4: Updating db prefix in wpstg1_usermeta. 
+[INFO]-[2019/07/15 00:34:57] Preparing Data Step5: Updating table_prefix in /home/bigbio/big-bio.org/testing/wp-config.php to wpstg1_
+[INFO]-[2019/07/15 00:34:57] Preparing Data Step5: Updating table_prefix in /home/bigbio/big-bio.org/testing/wp-config.php to wpstg1_
+[]-[] 
+[]-[] 
+[INFO]-[2019/07/15 00:34:57] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wpstg1_options 
+[INFO]-[2019/07/15 00:34:57] Preparing Data Step7: Finished successfully
+[INFO]-[2019/07/15 00:34:57] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wpstg1_options 
+[INFO]-[2019/07/15 00:34:57] Preparing Data Step7: Finished successfully
+[INFO]-[2019/07/15 00:34:57] Preparing Data Step8: Updating permalink_structure in wpstg1_options 
+[INFO]-[2019/07/15 00:34:57] Preparing Data Step8: Finished successfully
+[INFO]-[2019/07/15 00:34:57] Preparing Data Step8: Updating permalink_structure in wpstg1_options 
+[INFO]-[2019/07/15 00:34:57] Preparing Data Step8: Finished successfully
+[INFO]-[2019/07/15 00:34:57] Preparing Data Step9: Set staging site to noindex
+[INFO]-[2019/07/15 00:34:57] Preparing Data Step9: Finished successfully
+[INFO]-[2019/07/15 00:34:57] Preparing Data Step9: Set staging site to noindex
+[INFO]-[2019/07/15 00:34:57] Preparing Data Step9: Finished successfully
+[INFO]-[2019/07/15 00:34:57] Preparing Data Step10: Updating WP_HOME in wp-config.php to http://www.big-bio.org/testing
+[INFO]-[2019/07/15 00:34:57] Preparing Data Step10: WP_HOME not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/07/15 00:34:57] Preparing Data Step10: Finished successfully
+[INFO]-[2019/07/15 00:34:57] Preparing Data Step10: Updating WP_HOME in wp-config.php to http://www.big-bio.org/testing
+[INFO]-[2019/07/15 00:34:57] Preparing Data Step10: WP_HOME not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/07/15 00:34:57] Preparing Data Step10: Finished successfully
+[INFO]-[2019/07/15 00:34:57] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to http://www.big-bio.org/testing
+[INFO]-[2019/07/15 00:34:57] Preparing Data Step11: WP_SITEURL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/07/15 00:34:57] Preparing Data Step11: Finished successfully
+[INFO]-[2019/07/15 00:34:57] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to http://www.big-bio.org/testing
+[INFO]-[2019/07/15 00:34:57] Preparing Data Step11: WP_SITEURL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/07/15 00:34:57] Preparing Data Step11: Finished successfully
+[INFO]-[2019/07/15 00:34:57] Preparing Data Step12: Updating db prefix in wpstg1_options.
+[INFO]-[2019/07/15 00:34:57] Preparing Data Step12: Finished successfully
+[INFO]-[2019/07/15 00:34:57] Preparing Data Step12: Updating db prefix in wpstg1_options.
+[INFO]-[2019/07/15 00:34:57] Preparing Data Step12: Finished successfully
+[INFO]-[2019/07/15 00:34:58] Preparing Data Step13: Updating upload_path wpstg1_options.
+[INFO]-[2019/07/15 00:34:58] Preparing Data Step13: Skipped
+[INFO]-[2019/07/15 00:34:58] Preparing Data Step13: Updating upload_path wpstg1_options.
+[INFO]-[2019/07/15 00:34:58] Preparing Data Step13: Skipped
+[INFO]-[2019/07/15 00:34:58] Preparing Data Step14: Set WP_CACHE in wp-config.php to false
+[INFO]-[2019/07/15 00:34:58] Preparing Data Step14: Finished successfully
+[INFO]-[2019/07/15 00:34:58] Preparing Data Step14: Set WP_CACHE in wp-config.php to false
+[INFO]-[2019/07/15 00:34:58] Preparing Data Step14: Finished successfully
+[INFO]-[2019/07/15 00:34:58] Preparing Data Step15: Set WP_CONTENT_DIR in wp-config.php to false
+[INFO]-[2019/07/15 00:34:58] Preparing Data Step15: WP_CONTENT_DIR not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/07/15 00:34:58] Preparing Data Step15: Finished successfully
+[INFO]-[2019/07/15 00:34:58] Preparing Data Step15: Set WP_CONTENT_DIR in wp-config.php to false
+[INFO]-[2019/07/15 00:34:58] Preparing Data Step15: WP_CONTENT_DIR not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/07/15 00:34:58] Preparing Data Step15: Finished successfully
+[INFO]-[2019/07/15 00:34:58] Preparing Data Step16: Set WP_CONTENT_URL in wp-config.php to false
+[INFO]-[2019/07/15 00:34:58] Preparing Data Step16: WP_CONTENT_URL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/07/15 00:34:58] Preparing Data Step16: Finished successfully
+[INFO]-[2019/07/15 00:34:58] Preparing Data Step16: Set WP_CONTENT_URL in wp-config.php to false
+[INFO]-[2019/07/15 00:34:58] Preparing Data Step16: WP_CONTENT_URL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/07/15 00:34:58] Preparing Data Step16: Finished successfully
+[INFO]-[2019/07/15 00:34:58] Preparing Data Step17: Remove UPLOADS in wp-config.php
+[INFO]-[2019/07/15 00:34:58] Preparing Data Step17: UPLOADS not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/07/15 00:34:58] Preparing Data Step17: Finished successfully
+[INFO]-[2019/07/15 00:34:58] Preparing Data Step17: Remove UPLOADS in wp-config.php
+[INFO]-[2019/07/15 00:34:58] Preparing Data Step17: UPLOADS not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/07/15 00:34:58] Preparing Data Step17: Finished successfully
+[]-[] 
+[]-[] 
+[INFO]-[2019/07/15 00:34:58] Finish: Deleting clone job's cache files...
+[INFO]-[2019/07/15 00:34:58] Finish: Clone job's cache files have been deleted!
+[INFO]-[2019/07/15 00:34:58] Finish: Verifying existing clones...
+[INFO]-[2019/07/15 00:34:58] Finish: The job finished!
+[INFO]-[2019/07/15 00:34:58] Finish: Deleting clone job's cache files...
+[INFO]-[2019/07/15 00:34:58] Finish: Clone job's cache files have been deleted!
+[INFO]-[2019/07/15 00:34:58] Finish: Verifying existing clones...
+[INFO]-[2019/07/15 00:34:58] Finish: The job finished!

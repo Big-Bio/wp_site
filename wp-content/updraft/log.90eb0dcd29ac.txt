@@ -1,0 +1,556 @@
+0000.000 (0) Opened log file at time: Wed, 04 Sep 2019 23:53:41 +0000 on http://www.big-bio.org/beta
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.15 WP: 5.2.2 PHP: 7.0.33 (cgi-fcgi, Linux lightfoot 4.14.117-grsec-grsec+ #1 SMP Sat May 11 00:40:24 UTC 2019 x86_64) MySQL: 5.7.25-log WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 7.3M | 4M) multisite: N openssl: OpenSSL 1.1.0g  2 Nov 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.003 (0) Free space on disk containing Updraft's temporary directory: 1651293.4 MB
+0000.010 (0) Tasks: Backup files: 1 (schedule: every2hours) Backup DB:  (schedule: every2hours)
+0000.012 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.018 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1567634054, seconds_ago=7167)
+0000.022 (0) Set semaphore last lock (fd) time to 2019-09-04 23:53:41
+0000.023 (0) Semaphore lock (fd) complete
+0000.029 (0) Backup run: resumption=0, nonce=90eb0dcd29ac, file_nonce=90eb0dcd29ac begun at=1567641221 (0s ago), job type=backup
+0000.031 (0) Scheduling a resumption (1) after 300 seconds (1567641521) in case this run gets aborted
+0000.052 (0) Checking if we have a zip executable available
+0000.054 (0) Testing: /usr/bin/zip
+0000.065 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.067 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.068 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.069 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.070 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.081 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.083 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.097 (0) Working binary zip found: /usr/bin/zip
+0000.100 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.101 (0) Creation of backups of directories: beginning
+0000.107 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.951 (0) Total entities for the zip file: 1252 directories, 6724 files (0 skipped as non-modified), 89.7 MB
+0000.958 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.965 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.972 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.979 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.986 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.987 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (7.2 MB, 6724 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0001.619 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: size is now: 3.30 MB
+0001.628 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 600 files added (on-disk size: 3346.6 KB)
+0001.635 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 700 files added (on-disk size: 3346.6 KB)
+0001.641 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 800 files added (on-disk size: 3346.6 KB)
+0001.648 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 900 files added (on-disk size: 3346.6 KB)
+0001.654 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 1000 files added (on-disk size: 3346.6 KB)
+0001.656 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.1 MB, 6724 files batched, 501 (1002) added so far); re-opening (prior size: 3346.6 KB)
+0002.013 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: size is now: 5.10 MB
+0002.021 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 1100 files added (on-disk size: 5210.8 KB)
+0002.028 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 1200 files added (on-disk size: 5210.8 KB)
+0002.034 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 1300 files added (on-disk size: 5210.8 KB)
+0002.040 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 1400 files added (on-disk size: 5210.8 KB)
+0002.047 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 1500 files added (on-disk size: 5210.8 KB)
+0002.049 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (8.8 MB, 6724 files batched, 501 (1503) added so far); re-opening (prior size: 5210.8 KB)
+0002.793 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: size is now: 8.20 MB
+0002.802 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 1600 files added (on-disk size: 8374.6 KB)
+0002.809 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 1700 files added (on-disk size: 8374.6 KB)
+0002.816 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 1800 files added (on-disk size: 8374.6 KB)
+0002.822 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 1900 files added (on-disk size: 8374.6 KB)
+0002.829 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 2000 files added (on-disk size: 8374.6 KB)
+0002.830 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.4 MB, 6724 files batched, 501 (2004) added so far); re-opening (prior size: 8374.6 KB)
+0003.143 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 2100 files added (on-disk size: 9287.9 KB)
+0003.150 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 2200 files added (on-disk size: 9287.9 KB)
+0003.156 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 2300 files added (on-disk size: 9287.9 KB)
+0003.163 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 2400 files added (on-disk size: 9287.9 KB)
+0003.169 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 2500 files added (on-disk size: 9287.9 KB)
+0003.171 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6 MB, 6724 files batched, 501 (2505) added so far); re-opening (prior size: 9287.9 KB)
+0003.679 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 2600 files added (on-disk size: 11042 KB)
+0003.686 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 2700 files added (on-disk size: 11042 KB)
+0003.692 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 2800 files added (on-disk size: 11042 KB)
+0003.699 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 2900 files added (on-disk size: 11042 KB)
+0003.705 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 3000 files added (on-disk size: 11042 KB)
+0003.707 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.1 MB, 6724 files batched, 501 (3006) added so far); re-opening (prior size: 11042 KB)
+0004.216 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 3100 files added (on-disk size: 12628.9 KB)
+0004.223 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 3200 files added (on-disk size: 12628.9 KB)
+0004.229 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 3300 files added (on-disk size: 12628.9 KB)
+0004.236 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 3400 files added (on-disk size: 12628.9 KB)
+0004.242 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 3500 files added (on-disk size: 12628.9 KB)
+0004.244 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6.6 MB, 6724 files batched, 501 (3507) added so far); re-opening (prior size: 12628.9 KB)
+0004.861 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: size is now: 15.70 MB
+0004.955 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 3600 files added (on-disk size: 16036.3 KB)
+0004.962 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 3700 files added (on-disk size: 16036.3 KB)
+0004.968 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 3800 files added (on-disk size: 16036.3 KB)
+0004.975 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 3900 files added (on-disk size: 16036.3 KB)
+0004.981 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 4000 files added (on-disk size: 16036.3 KB)
+0004.983 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (10.3 MB, 6724 files batched, 501 (4008) added so far); re-opening (prior size: 16036.3 KB)
+0005.659 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: size is now: 19.70 MB
+0005.667 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 4100 files added (on-disk size: 20123.6 KB)
+0005.674 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 4200 files added (on-disk size: 20123.6 KB)
+0005.680 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 4300 files added (on-disk size: 20123.6 KB)
+0005.687 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 4400 files added (on-disk size: 20123.6 KB)
+0005.694 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 4500 files added (on-disk size: 20123.6 KB)
+0005.696 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (15.7 MB, 6724 files batched, 501 (4509) added so far); re-opening (prior size: 20123.6 KB)
+0006.944 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: size is now: 23.90 MB
+0006.952 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 4600 files added (on-disk size: 24459 KB)
+0006.959 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 4700 files added (on-disk size: 24459 KB)
+0006.966 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 4800 files added (on-disk size: 24459 KB)
+0006.972 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 4900 files added (on-disk size: 24459 KB)
+0006.979 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 5000 files added (on-disk size: 24459 KB)
+0006.980 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.6 MB, 6724 files batched, 501 (5010) added so far); re-opening (prior size: 24459 KB)
+0007.484 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 5100 files added (on-disk size: 25389.5 KB)
+0007.491 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 5200 files added (on-disk size: 25389.5 KB)
+0007.497 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 5300 files added (on-disk size: 25389.5 KB)
+0007.504 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 5400 files added (on-disk size: 25389.5 KB)
+0007.510 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 5500 files added (on-disk size: 25389.5 KB)
+0007.512 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (8.2 MB, 6724 files batched, 501 (5511) added so far); re-opening (prior size: 25389.5 KB)
+0008.254 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 5600 files added (on-disk size: 28810.3 KB)
+0008.260 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 5700 files added (on-disk size: 28810.3 KB)
+0008.267 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 5800 files added (on-disk size: 28810.3 KB)
+0008.273 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 5900 files added (on-disk size: 28810.3 KB)
+0008.280 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 6000 files added (on-disk size: 28810.3 KB)
+0008.281 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6.6 MB, 6724 files batched, 501 (6012) added so far); re-opening (prior size: 28810.3 KB)
+0009.068 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 6100 files added (on-disk size: 31016.1 KB)
+0009.075 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 6200 files added (on-disk size: 31016.1 KB)
+0009.081 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 6300 files added (on-disk size: 31016.1 KB)
+0009.088 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 6400 files added (on-disk size: 31016.1 KB)
+0009.095 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 6500 files added (on-disk size: 31016.1 KB)
+0009.096 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.6 MB, 6724 files batched, 501 (6513) added so far); re-opening (prior size: 31016.1 KB)
+0009.714 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 6600 files added (on-disk size: 32388.1 KB)
+0009.875 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip.tmp: 6700 files added (on-disk size: 32388.1 KB)
+0011.185 (0) Created plugins zip (0) - 33519.1 KB in 11.1 s (3026.8 KB/s) (sha1: a3bd87c058347ca4c199ec775a9bc955c5ff2ded, sha256: b5a86063d594a09e1c57f69e386ef645e1c93a14097180f4df42ec27b217fa79)
+0011.193 (0) Beginning creation of dump of themes (split every: 400 MB)
+0011.429 (0) Total entities for the zip file: 366 directories, 2372 files (0 skipped as non-modified), 41.4 MB
+0011.436 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0011.442 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0011.449 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0011.456 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0011.462 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0011.463 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.8 MB, 2372 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0011.789 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-themes.zip.tmp: size is now: 3.20 MB
+0011.922 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-themes.zip.tmp: 600 files added (on-disk size: 3323.2 KB)
+0011.929 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-themes.zip.tmp: 700 files added (on-disk size: 3323.2 KB)
+0011.935 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-themes.zip.tmp: 800 files added (on-disk size: 3323.2 KB)
+0011.942 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-themes.zip.tmp: 900 files added (on-disk size: 3323.2 KB)
+0011.948 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-themes.zip.tmp: 1000 files added (on-disk size: 3323.2 KB)
+0011.949 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (7.7 MB, 2372 files batched, 501 (1002) added so far); re-opening (prior size: 3323.2 KB)
+0012.421 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-themes.zip.tmp: size is now: 8.30 MB
+0012.431 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-themes.zip.tmp: 1100 files added (on-disk size: 8468.2 KB)
+0012.437 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-themes.zip.tmp: 1200 files added (on-disk size: 8468.2 KB)
+0012.444 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-themes.zip.tmp: 1300 files added (on-disk size: 8468.2 KB)
+0012.452 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-themes.zip.tmp: 1400 files added (on-disk size: 8468.2 KB)
+0012.458 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-themes.zip.tmp: 1500 files added (on-disk size: 8468.2 KB)
+0012.460 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (17.2 MB, 2372 files batched, 501 (1503) added so far); re-opening (prior size: 8468.2 KB)
+0013.076 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-themes.zip.tmp: size is now: 23.80 MB
+0013.085 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-themes.zip.tmp: 1600 files added (on-disk size: 24346.2 KB)
+0013.091 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-themes.zip.tmp: 1700 files added (on-disk size: 24346.2 KB)
+0013.097 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-themes.zip.tmp: 1800 files added (on-disk size: 24346.2 KB)
+0013.104 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-themes.zip.tmp: 1900 files added (on-disk size: 24346.2 KB)
+0013.111 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-themes.zip.tmp: 2000 files added (on-disk size: 24346.2 KB)
+0013.112 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.8 MB, 2372 files batched, 501 (2004) added so far); re-opening (prior size: 24346.2 KB)
+0013.704 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-themes.zip.tmp: 2100 files added (on-disk size: 28582.2 KB)
+0013.711 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-themes.zip.tmp: 2200 files added (on-disk size: 28582.2 KB)
+0013.894 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-themes.zip.tmp: 2300 files added (on-disk size: 28582.2 KB)
+0015.016 (0) Created themes zip (0) - 32462.5 KB in 3.8 s (8498.6 KB/s) (sha1: 1347c4662f33a994b74298086be7ba96bb9dee62, sha256: a78e00ffc97b77012bae7fc0b1692c06626f186e5474a22c0183e6f6ead7475b)
+0015.025 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0015.026 (0) Looking for candidates to backup in: /home/bigbio/big-bio.org/beta/wp-content/uploads
+0015.027 (0) finding files: 2017: adding to list (1)
+0015.028 (0) finding files: 2019: adding to list (2)
+0015.029 (0) finding files: js_composer: adding to list (3)
+0015.030 (0) finding files: wp-staging: adding to list (4)
+0015.031 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0015.071 (0) Total entities for the zip file: 12 directories, 782 files (0 skipped as non-modified), 52.6 MB
+0015.078 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0015.085 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0015.091 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0015.098 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25.4 MB, 782 files batched, 397 (397) added so far); re-opening (prior size: 0 KB)
+0016.087 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-uploads.zip.tmp: size is now: 24.40 MB
+0016.090 (0) A useful amount of data was added after this amount of zip processing: 2 s (normalised: 1.9 s, rate: 13240.5 KB/s)
+0016.092 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.9652180671692, normalised_time=1.9334605005116, max_time=16.091058015823, data points known=1, old_max_bytes=26214400, new_max_bytes=130900247)
+0016.094 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-uploads.zip.tmp: 400 files added (on-disk size: 24974 KB)
+0016.101 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-uploads.zip.tmp: 500 files added (on-disk size: 24974 KB)
+0016.108 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-uploads.zip.tmp: 600 files added (on-disk size: 24974 KB)
+0016.115 (0) Zip: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-uploads.zip.tmp: 700 files added (on-disk size: 24974 KB)
+0016.887 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-uploads.zip.tmp: size is now: 50.30 MB
+0017.915 (0) Created uploads zip (0) - 51489.8 KB in 2.9 s (17878.4 KB/s) (sha1: a0caa5735b8c437970431d0c112630af958b71f4, sha256: fbe683103035d0af6c2b110471f11e4c294a3e593975d997a7b8f68a7b6c700b)
+0017.922 (0) Beginning backup of other directories found in the content directory (index: 0)
+0017.923 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0017.924 (0) Looking for candidates to backup in: /home/bigbio/big-bio.org/beta/wp-content
+0017.925 (0) finding files: plugins: skipping: this is the plugins directory
+0017.926 (0) finding files: themes: skipping: this is the themes directory
+0017.927 (0) finding files: uploads: skipping: this is the uploads directory
+0017.928 (0) finding files: index.php: adding to list (1)
+0017.929 (0) finding files: wp-cache-config.php: adding to list (2)
+0017.930 (0) finding files: mu-plugins: adding to list (3)
+0017.931 (0) finding files: updraft: skipping: this is the updraft directory
+0017.932 (0) finding files: ai1wm-backups: skipping: excluded by options (glob)
+0017.933 (0) finding files: upgrade: skipping: excluded by options
+0017.939 (0) Total entities for the zip file: 1 directories, 3 files (0 skipped as non-modified), 0 MB
+0017.952 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-others.zip.tmp: size is now: 0.00 MB
+0017.958 (0) Created others zip (0) - 3.9 KB in 0 s (181.7 KB/s) (sha1: fec171e14548e60cd646bbc91dd448464189578d, sha256: 70e43be1c10ad775a2defd9e80194b40f5800bc91f685d80d9764e22d8eb3c73)
+0017.967 (0) Saving backup status to database (elements: 8)
+0017.971 (0) Beginning creation of database dump (WordPress DB)
+0017.974 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0018.331 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wpstg1_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */; (truncated - 1233 bytes total)
+0018.335 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0019.349 (0) Table wpstg1_options: Total expected rows (approximate): 311
+0019.415 (0) Table wpstg1_options: Total rows added: 318 in 0.06 seconds
+0019.417 (0) Table wpstg1_options: finishing file (backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_options.table.gz - 149.8 KB)
+0019.422 (0) Table wpstg1_users: Total expected rows (approximate): 5
+0019.427 (0) Table wpstg1_users: Total rows added: 7 in 0.00 seconds
+0019.428 (0) Table wpstg1_users: finishing file (backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_users.table.gz - 1 KB)
+0019.434 (0) Table wpstg1_usermeta: Total expected rows (approximate): 125
+0019.439 (0) Table wpstg1_usermeta: Total rows added: 140 in 0.00 seconds
+0019.440 (0) Table wpstg1_usermeta: finishing file (backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_usermeta.table.gz - 2.9 KB)
+0019.445 (0) Table wpstg1_commentmeta: Total expected rows (approximate): 0
+0019.469 (0) Table wpstg1_commentmeta: Total rows added: 0 in 0.02 seconds
+0019.471 (0) Table wpstg1_commentmeta: finishing file (backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_commentmeta.table.gz - 0.4 KB)
+0019.476 (0) Table wpstg1_comments: Total expected rows (approximate): 0
+0019.519 (0) Table wpstg1_comments: Total rows added: 1 in 0.04 seconds
+0019.520 (0) Table wpstg1_comments: finishing file (backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_comments.table.gz - 0.7 KB)
+0019.525 (0) Table wpstg1_links: Total expected rows (approximate): 0
+0019.559 (0) Table wpstg1_links: Total rows added: 0 in 0.03 seconds
+0019.561 (0) Table wpstg1_links: finishing file (backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_links.table.gz - 0.4 KB)
+0019.590 (0) Table wpstg1_postmeta: Total expected rows (approximate): 1159
+0019.786 (0) Table wpstg1_postmeta: Total rows added: 1305 in 0.19 seconds
+0019.971 (0) Table wpstg1_postmeta: finishing file (backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_postmeta.table.gz - 42.5 KB)
+0019.978 (0) Table wpstg1_posts: Total expected rows (approximate): 320
+0020.072 (0) Table wpstg1_posts: Total rows added: 350 in 0.09 seconds
+0020.074 (0) Table wpstg1_posts: finishing file (backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_posts.table.gz - 32.3 KB)
+0020.079 (0) Table wpstg1_term_relationships: Total expected rows (approximate): 43
+0020.083 (0) Table wpstg1_term_relationships: Total rows added: 42 in 0.00 seconds
+0020.084 (0) Table wpstg1_term_relationships: finishing file (backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_term_relationships.table.gz - 0.5 KB)
+0020.089 (0) Table wpstg1_term_taxonomy: Total expected rows (approximate): 30
+0020.093 (0) Table wpstg1_term_taxonomy: Total rows added: 30 in 0.00 seconds
+0020.094 (0) Table wpstg1_term_taxonomy: finishing file (backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_term_taxonomy.table.gz - 0.6 KB)
+0020.099 (0) Table wpstg1_termmeta: Total expected rows (approximate): 0
+0020.102 (0) Table wpstg1_termmeta: Total rows added: 0 in 0.00 seconds
+0020.103 (0) Table wpstg1_termmeta: finishing file (backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_termmeta.table.gz - 0.4 KB)
+0020.108 (0) Table wpstg1_terms: Total expected rows (approximate): 30
+0020.111 (0) Table wpstg1_terms: Total rows added: 30 in 0.00 seconds
+0020.113 (0) Table wpstg1_terms: finishing file (backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_terms.table.gz - 0.7 KB)
+0020.115 (0) Skipping table (lacks our prefix (wpstg1_)): 20190621_123042__wp_6tj6vd_commentmeta
+0020.116 (0) Skipping table (lacks our prefix (wpstg1_)): 20190621_123042__wp_6tj6vd_comments
+0020.117 (0) Skipping table (lacks our prefix (wpstg1_)): 20190621_123042__wp_6tj6vd_layerslider
+0020.118 (0) Skipping table (lacks our prefix (wpstg1_)): 20190621_123042__wp_6tj6vd_links
+0020.119 (0) Skipping table (lacks our prefix (wpstg1_)): 20190621_123042__wp_6tj6vd_options
+0020.120 (0) Skipping table (lacks our prefix (wpstg1_)): 20190621_123042__wp_6tj6vd_postmeta
+0020.121 (0) Skipping table (lacks our prefix (wpstg1_)): 20190621_123042__wp_6tj6vd_posts
+0020.122 (0) Skipping table (lacks our prefix (wpstg1_)): 20190621_123042__wp_6tj6vd_revslider_css
+0020.123 (0) Skipping table (lacks our prefix (wpstg1_)): 20190621_123042__wp_6tj6vd_revslider_layer_animations
+0020.124 (0) Skipping table (lacks our prefix (wpstg1_)): 20190621_123042__wp_6tj6vd_revslider_navigations
+0020.125 (0) Skipping table (lacks our prefix (wpstg1_)): 20190621_123042__wp_6tj6vd_revslider_sliders
+0020.126 (0) Skipping table (lacks our prefix (wpstg1_)): 20190621_123042__wp_6tj6vd_revslider_slides
+0020.126 (0) Skipping table (lacks our prefix (wpstg1_)): 20190621_123042__wp_6tj6vd_revslider_static_slides
+0020.128 (0) Skipping table (lacks our prefix (wpstg1_)): 20190621_123042__wp_6tj6vd_term_relationships
+0020.129 (0) Skipping table (lacks our prefix (wpstg1_)): 20190621_123042__wp_6tj6vd_term_taxonomy
+0020.130 (0) Skipping table (lacks our prefix (wpstg1_)): 20190621_123042__wp_6tj6vd_termmeta
+0020.131 (0) Skipping table (lacks our prefix (wpstg1_)): 20190621_123042__wp_6tj6vd_terms
+0020.132 (0) Skipping table (lacks our prefix (wpstg1_)): 20190621_123042__wp_6tj6vd_usermeta
+0020.133 (0) Skipping table (lacks our prefix (wpstg1_)): 20190621_123042__wp_6tj6vd_users
+0020.134 (0) Skipping table (lacks our prefix (wpstg1_)): Modules
+0020.135 (0) Skipping table (lacks our prefix (wpstg1_)): Users
+0020.136 (0) Skipping table (lacks our prefix (wpstg1_)): pre_accounts
+0020.137 (0) Skipping table (lacks our prefix (wpstg1_)): wp_6tj6vd_commentmeta
+0020.138 (0) Skipping table (lacks our prefix (wpstg1_)): wp_6tj6vd_comments
+0020.139 (0) Skipping table (lacks our prefix (wpstg1_)): wp_6tj6vd_layerslider
+0020.140 (0) Skipping table (lacks our prefix (wpstg1_)): wp_6tj6vd_links
+0020.141 (0) Skipping table (lacks our prefix (wpstg1_)): wp_6tj6vd_options
+0020.142 (0) Skipping table (lacks our prefix (wpstg1_)): wp_6tj6vd_postmeta
+0020.144 (0) Skipping table (lacks our prefix (wpstg1_)): wp_6tj6vd_posts
+0020.145 (0) Skipping table (lacks our prefix (wpstg1_)): wp_6tj6vd_revslider_css
+0020.146 (0) Skipping table (lacks our prefix (wpstg1_)): wp_6tj6vd_revslider_layer_animations
+0020.147 (0) Skipping table (lacks our prefix (wpstg1_)): wp_6tj6vd_revslider_navigations
+0020.148 (0) Skipping table (lacks our prefix (wpstg1_)): wp_6tj6vd_revslider_sliders
+0020.149 (0) Skipping table (lacks our prefix (wpstg1_)): wp_6tj6vd_revslider_slides
+0020.150 (0) Skipping table (lacks our prefix (wpstg1_)): wp_6tj6vd_revslider_static_slides
+0020.150 (0) Skipping table (lacks our prefix (wpstg1_)): wp_6tj6vd_term_relationships
+0020.152 (0) Skipping table (lacks our prefix (wpstg1_)): wp_6tj6vd_term_taxonomy
+0020.153 (0) Skipping table (lacks our prefix (wpstg1_)): wp_6tj6vd_termmeta
+0020.154 (0) Skipping table (lacks our prefix (wpstg1_)): wp_6tj6vd_terms
+0020.155 (0) Skipping table (lacks our prefix (wpstg1_)): wp_6tj6vd_usermeta
+0020.156 (0) Skipping table (lacks our prefix (wpstg1_)): wp_6tj6vd_users
+0020.157 (0) Skipping table (lacks our prefix (wpstg1_)): wp_6tj6vd_wpda_logging
+0020.158 (0) Skipping table (lacks our prefix (wpstg1_)): wp_6tj6vd_wpda_menu_items
+0020.159 (0) Skipping table (lacks our prefix (wpstg1_)): wp_6tj6vd_wpda_publisher
+0020.160 (0) Skipping table (lacks our prefix (wpstg1_)): wp_6tj6vd_wpda_table_design
+0020.161 (0) Skipping table (lacks our prefix (wpstg1_)): wp_6tj6vd_wpdp_page
+0020.162 (0) Skipping table (lacks our prefix (wpstg1_)): wp_6tj6vd_wpdp_project
+0020.163 (0) Skipping table (lacks our prefix (wpstg1_)): wp_6tj6vd_wpdp_table
+0020.164 (0) Skipping table (lacks our prefix (wpstg1_)): wpstg0_commentmeta
+0020.165 (0) Skipping table (lacks our prefix (wpstg1_)): wpstg0_comments
+0020.166 (0) Skipping table (lacks our prefix (wpstg1_)): wpstg0_layerslider
+0020.167 (0) Skipping table (lacks our prefix (wpstg1_)): wpstg0_links
+0020.168 (0) Skipping table (lacks our prefix (wpstg1_)): wpstg0_options
+0020.169 (0) Skipping table (lacks our prefix (wpstg1_)): wpstg0_postmeta
+0020.170 (0) Skipping table (lacks our prefix (wpstg1_)): wpstg0_posts
+0020.171 (0) Skipping table (lacks our prefix (wpstg1_)): wpstg0_revslider_css
+0020.172 (0) Skipping table (lacks our prefix (wpstg1_)): wpstg0_revslider_layer_animations
+0020.173 (0) Skipping table (lacks our prefix (wpstg1_)): wpstg0_revslider_navigations
+0020.174 (0) Skipping table (lacks our prefix (wpstg1_)): wpstg0_revslider_sliders
+0020.175 (0) Skipping table (lacks our prefix (wpstg1_)): wpstg0_revslider_slides
+0020.176 (0) Skipping table (lacks our prefix (wpstg1_)): wpstg0_revslider_static_slides
+0020.178 (0) Skipping table (lacks our prefix (wpstg1_)): wpstg0_term_relationships
+0020.179 (0) Skipping table (lacks our prefix (wpstg1_)): wpstg0_term_taxonomy
+0020.180 (0) Skipping table (lacks our prefix (wpstg1_)): wpstg0_termmeta
+0020.181 (0) Skipping table (lacks our prefix (wpstg1_)): wpstg0_terms
+0020.182 (0) Skipping table (lacks our prefix (wpstg1_)): wpstg0_usermeta
+0020.183 (0) Skipping table (lacks our prefix (wpstg1_)): wpstg0_users
+0020.186 (0) Table wpstg1_layerslider: Total expected rows (approximate): 0
+0020.189 (0) Table wpstg1_layerslider: Total rows added: 0 in 0.00 seconds
+0020.190 (0) Table wpstg1_layerslider: finishing file (backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_layerslider.table.gz - 0.4 KB)
+0020.195 (0) Table wpstg1_revslider_css: Total expected rows (approximate): 109
+0020.214 (0) Table wpstg1_revslider_css: Total rows added: 109 in 0.02 seconds
+0020.215 (0) Table wpstg1_revslider_css: finishing file (backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_revslider_css.table.gz - 4.8 KB)
+0020.221 (0) Table wpstg1_revslider_layer_animations: Total expected rows (approximate): 0
+0020.224 (0) Table wpstg1_revslider_layer_animations: Total rows added: 0 in 0.00 seconds
+0020.225 (0) Table wpstg1_revslider_layer_animations: finishing file (backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_revslider_layer_animations.table.gz - 0.3 KB)
+0020.230 (0) Table wpstg1_revslider_navigations: Total expected rows (approximate): 0
+0020.270 (0) Table wpstg1_revslider_navigations: Total rows added: 0 in 0.04 seconds
+0020.272 (0) Table wpstg1_revslider_navigations: finishing file (backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_revslider_navigations.table.gz - 0.3 KB)
+0020.276 (0) Table wpstg1_revslider_sliders: Total expected rows (approximate): 0
+0020.279 (0) Table wpstg1_revslider_sliders: Total rows added: 0 in 0.00 seconds
+0020.280 (0) Table wpstg1_revslider_sliders: finishing file (backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_revslider_sliders.table.gz - 0.3 KB)
+0020.284 (0) Table wpstg1_revslider_slides: Total expected rows (approximate): 0
+0020.298 (0) Table wpstg1_revslider_slides: Total rows added: 0 in 0.01 seconds
+0020.299 (0) Table wpstg1_revslider_slides: finishing file (backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_revslider_slides.table.gz - 0.3 KB)
+0020.304 (0) Table wpstg1_revslider_static_slides: Total expected rows (approximate): 0
+0020.314 (0) Table wpstg1_revslider_static_slides: Total rows added: 0 in 0.01 seconds
+0020.315 (0) Table wpstg1_revslider_static_slides: finishing file (backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_revslider_static_slides.table.gz - 0.3 KB)
+0020.328 (0) Table wpstg1_wpda_logging: Total expected rows (approximate): 0
+0020.351 (0) Table wpstg1_wpda_logging: Total rows added: 0 in 0.02 seconds
+0020.352 (0) Table wpstg1_wpda_logging: finishing file (backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_wpda_logging.table.gz - 0.3 KB)
+0020.357 (0) Table wpstg1_wpda_menu_items: Total expected rows (approximate): 0
+0020.366 (0) Table wpstg1_wpda_menu_items: Total rows added: 0 in 0.01 seconds
+0020.367 (0) Table wpstg1_wpda_menu_items: finishing file (backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_wpda_menu_items.table.gz - 0.3 KB)
+0020.384 (0) Table wpstg1_wpda_publisher: Total expected rows (approximate): 0
+0020.388 (0) Table wpstg1_wpda_publisher: Total rows added: 0 in 0.00 seconds
+0020.389 (0) Table wpstg1_wpda_publisher: finishing file (backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_wpda_publisher.table.gz - 0.4 KB)
+0020.394 (0) Table wpstg1_wpda_table_design: Total expected rows (approximate): 0
+0020.403 (0) Table wpstg1_wpda_table_design: Total rows added: 0 in 0.01 seconds
+0020.405 (0) Table wpstg1_wpda_table_design: finishing file (backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_wpda_table_design.table.gz - 0.3 KB)
+0020.421 (0) Table wpstg1_wpdp_page: Total expected rows (approximate): 0
+0020.449 (0) Table wpstg1_wpdp_page: Total rows added: 0 in 0.03 seconds
+0020.451 (0) Table wpstg1_wpdp_page: finishing file (backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_wpdp_page.table.gz - 0.5 KB)
+0020.457 (0) Table wpstg1_wpdp_project: Total expected rows (approximate): 0
+0020.466 (0) Table wpstg1_wpdp_project: Total rows added: 0 in 0.01 seconds
+0020.468 (0) Table wpstg1_wpdp_project: finishing file (backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_wpdp_project.table.gz - 0.4 KB)
+0020.476 (0) Table wpstg1_wpdp_table: Total expected rows (approximate): 0
+0020.490 (0) Table wpstg1_wpdp_table: Total rows added: 0 in 0.01 seconds
+0020.492 (0) Table wpstg1_wpdp_table: finishing file (backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_wpdp_table.table.gz - 0.3 KB)
+0020.497 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_options.table.gz (1/93): adding to final database dump
+0020.541 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_users.table.gz (2/93): adding to final database dump
+0020.543 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_usermeta.table.gz (3/93): adding to final database dump
+0020.546 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_commentmeta.table.gz (4/93): adding to final database dump
+0020.548 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_comments.table.gz (5/93): adding to final database dump
+0020.549 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_links.table.gz (6/93): adding to final database dump
+0020.550 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_postmeta.table.gz (7/93): adding to final database dump
+0020.562 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_posts.table.gz (8/93): adding to final database dump
+0020.575 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_term_relationships.table.gz (9/93): adding to final database dump
+0020.576 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_term_taxonomy.table.gz (10/93): adding to final database dump
+0020.578 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_termmeta.table.gz (11/93): adding to final database dump
+0020.579 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_terms.table.gz (12/93): adding to final database dump
+0020.580 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_layerslider.table.gz (13/93): adding to final database dump
+0020.581 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_revslider_css.table.gz (14/93): adding to final database dump
+0020.585 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_revslider_layer_animations.table.gz (15/93): adding to final database dump
+0020.586 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_revslider_navigations.table.gz (16/93): adding to final database dump
+0020.587 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_revslider_sliders.table.gz (17/93): adding to final database dump
+0020.588 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_revslider_slides.table.gz (18/93): adding to final database dump
+0020.589 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_revslider_static_slides.table.gz (19/93): adding to final database dump
+0020.590 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_wpda_logging.table.gz (20/93): adding to final database dump
+0020.592 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_wpda_menu_items.table.gz (21/93): adding to final database dump
+0020.593 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_wpda_publisher.table.gz (22/93): adding to final database dump
+0020.594 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_wpda_table_design.table.gz (23/93): adding to final database dump
+0020.595 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_wpdp_page.table.gz (24/93): adding to final database dump
+0020.597 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_wpdp_project.table.gz (25/93): adding to final database dump
+0020.598 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db-table-wpstg1_wpdp_table.table.gz (26/93): adding to final database dump
+0020.687 (0) PHP event: code E_NOTICE: Undefined variable: description (line 1704, wp-content/plugins/updraftplus/backup.php)
+0020.727 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db.gz: finished writing out complete database file (224 KB)
+0020.888 (0) Total database tables backed up: 26 (backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db.gz, size: 241697, sha256)
+0020.896 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0020.897 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0020.898 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0020.899 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-others.zip: others: This file has not yet been successfully uploaded: will queue
+0020.900 (0) backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db.gz: db: This file has not yet been successfully uploaded: will queue
+0020.901 (0) Saving backup history. Total backup size: 115 MB
+0020.905 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0020.908 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0020.909 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-31a7095b7db317ce8802a594e9053678)
+0022.776 (0) Google Drive: there appears to be more than one folder: 1ZEGWxX9_tQAL32sjFUus-_91ij2-lG3d, 12m2Z7YfgnoTP8eUembRb8nq6DvhqbCuP
+0022.977 (0) Google Drive: quota usage: used=794.1 MB, total=30720 MB, available=29925.9 MB
+0022.978 (0) Google Drive: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip: Attempting to upload to Google Drive (into folder id: 1ZEGWxX9_tQAL32sjFUus-_91ij2-lG3d)
+0023.377 (0) Googledrive chunked upload: 3.1 % uploaded (1048576)
+0023.517 (0) Googledrive chunked upload: 6.1 % uploaded (2097152)
+0023.659 (0) Googledrive chunked upload: 9.2 % uploaded (3145728)
+0023.847 (0) Googledrive chunked upload: 12.2 % uploaded (4194304)
+0023.999 (0) Googledrive chunked upload: 15.3 % uploaded (5242880)
+0024.222 (0) Googledrive chunked upload: 18.3 % uploaded (6291456)
+0024.368 (0) Googledrive chunked upload: 21.4 % uploaded (7340032)
+0024.564 (0) Googledrive chunked upload: 24.4 % uploaded (8388608)
+0024.709 (0) Googledrive chunked upload: 27.5 % uploaded (9437184)
+0024.894 (0) Googledrive chunked upload: 30.5 % uploaded (10485760)
+0025.032 (0) Googledrive chunked upload: 33.6 % uploaded (11534336)
+0025.178 (0) Googledrive chunked upload: 36.7 % uploaded (12582912)
+0025.450 (0) Googledrive chunked upload: 39.7 % uploaded (13631488)
+0025.579 (0) Googledrive chunked upload: 42.8 % uploaded (14680064)
+0025.735 (0) Googledrive chunked upload: 45.8 % uploaded (15728640)
+0025.879 (0) Googledrive chunked upload: 48.9 % uploaded (16777216)
+0026.039 (0) Googledrive chunked upload: 51.9 % uploaded (17825792)
+0026.213 (0) Googledrive chunked upload: 55 % uploaded (18874368)
+0026.341 (0) Googledrive chunked upload: 58 % uploaded (19922944)
+0026.492 (0) Googledrive chunked upload: 61.1 % uploaded (20971520)
+0026.640 (0) Googledrive chunked upload: 64.2 % uploaded (22020096)
+0026.825 (0) Googledrive chunked upload: 67.2 % uploaded (23068672)
+0026.954 (0) Googledrive chunked upload: 70.3 % uploaded (24117248)
+0027.120 (0) Googledrive chunked upload: 73.3 % uploaded (25165824)
+0027.252 (0) Googledrive chunked upload: 76.4 % uploaded (26214400)
+0027.404 (0) Googledrive chunked upload: 79.4 % uploaded (27262976)
+0027.548 (0) Googledrive chunked upload: 82.5 % uploaded (28311552)
+0027.675 (0) Googledrive chunked upload: 85.5 % uploaded (29360128)
+0027.829 (0) Googledrive chunked upload: 88.6 % uploaded (30408704)
+0027.978 (0) Googledrive chunked upload: 91.6 % uploaded (31457280)
+0028.101 (0) Googledrive chunked upload: 94.7 % uploaded (32505856)
+0028.252 (0) Googledrive chunked upload: 97.8 % uploaded (33554432)
+0029.495 (0) Googledrive chunked upload: 100 % uploaded (33554432)
+0029.499 (0) Google Drive: OK: Archive backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip uploaded in 6.52 seconds
+0029.500 (0) Recording as successfully uploaded: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip
+0029.529 (0) Deleting local file: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-plugins.zip: OK
+0029.663 (0) Google Drive: quota usage: used=794.1 MB, total=30720 MB, available=29925.9 MB
+0029.664 (0) Google Drive: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-themes.zip: Attempting to upload to Google Drive (into folder id: 1ZEGWxX9_tQAL32sjFUus-_91ij2-lG3d)
+0030.010 (0) Googledrive chunked upload: 3.2 % uploaded (1048576)
+0030.152 (0) Googledrive chunked upload: 6.3 % uploaded (2097152)
+0030.295 (0) Googledrive chunked upload: 9.5 % uploaded (3145728)
+0030.446 (0) Googledrive chunked upload: 12.6 % uploaded (4194304)
+0030.605 (0) Googledrive chunked upload: 15.8 % uploaded (5242880)
+0030.828 (0) Googledrive chunked upload: 18.9 % uploaded (6291456)
+0030.963 (0) Googledrive chunked upload: 22.1 % uploaded (7340032)
+0031.111 (0) Googledrive chunked upload: 25.2 % uploaded (8388608)
+0031.251 (0) Googledrive chunked upload: 28.4 % uploaded (9437184)
+0031.401 (0) Googledrive chunked upload: 31.5 % uploaded (10485760)
+0031.532 (0) Googledrive chunked upload: 34.7 % uploaded (11534336)
+0031.684 (0) Googledrive chunked upload: 37.9 % uploaded (12582912)
+0031.857 (0) Googledrive chunked upload: 41 % uploaded (13631488)
+0032.002 (0) Googledrive chunked upload: 44.2 % uploaded (14680064)
+0032.134 (0) Googledrive chunked upload: 47.3 % uploaded (15728640)
+0032.295 (0) Googledrive chunked upload: 50.5 % uploaded (16777216)
+0032.437 (0) Googledrive chunked upload: 53.6 % uploaded (17825792)
+0032.601 (0) Googledrive chunked upload: 56.8 % uploaded (18874368)
+0032.841 (0) Googledrive chunked upload: 59.9 % uploaded (19922944)
+0032.992 (0) Googledrive chunked upload: 63.1 % uploaded (20971520)
+0033.135 (0) Googledrive chunked upload: 66.2 % uploaded (22020096)
+0033.270 (0) Googledrive chunked upload: 69.4 % uploaded (23068672)
+0033.411 (0) Googledrive chunked upload: 72.6 % uploaded (24117248)
+0033.552 (0) Googledrive chunked upload: 75.7 % uploaded (25165824)
+0033.707 (0) Googledrive chunked upload: 78.9 % uploaded (26214400)
+0033.886 (0) Googledrive chunked upload: 82 % uploaded (27262976)
+0034.022 (0) Googledrive chunked upload: 85.2 % uploaded (28311552)
+0034.196 (0) Googledrive chunked upload: 88.3 % uploaded (29360128)
+0034.355 (0) Googledrive chunked upload: 91.5 % uploaded (30408704)
+0034.505 (0) Googledrive chunked upload: 94.6 % uploaded (31457280)
+0034.665 (0) Googledrive chunked upload: 97.8 % uploaded (32505856)
+0035.470 (0) Googledrive chunked upload: 100 % uploaded (32505856)
+0035.474 (0) Google Drive: OK: Archive backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-themes.zip uploaded in 5.81 seconds
+0035.476 (0) Recording as successfully uploaded: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-themes.zip
+0035.499 (0) Deleting local file: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-themes.zip: OK
+0035.662 (0) Google Drive: quota usage: used=826.8 MB, total=30720 MB, available=29893.2 MB
+0035.663 (0) Google Drive: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-uploads.zip: Attempting to upload to Google Drive (into folder id: 1ZEGWxX9_tQAL32sjFUus-_91ij2-lG3d)
+0036.035 (0) Googledrive chunked upload: 2 % uploaded (1048576)
+0036.170 (0) Googledrive chunked upload: 4 % uploaded (2097152)
+0036.305 (0) Googledrive chunked upload: 6 % uploaded (3145728)
+0036.442 (0) Googledrive chunked upload: 8 % uploaded (4194304)
+0036.585 (0) Googledrive chunked upload: 9.9 % uploaded (5242880)
+0036.883 (0) Googledrive chunked upload: 11.9 % uploaded (6291456)
+0037.037 (0) Googledrive chunked upload: 13.9 % uploaded (7340032)
+0037.173 (0) Googledrive chunked upload: 15.9 % uploaded (8388608)
+0037.316 (0) Googledrive chunked upload: 17.9 % uploaded (9437184)
+0037.446 (0) Googledrive chunked upload: 19.9 % uploaded (10485760)
+0037.628 (0) Googledrive chunked upload: 21.9 % uploaded (11534336)
+0037.841 (0) Googledrive chunked upload: 23.9 % uploaded (12582912)
+0037.966 (0) Googledrive chunked upload: 25.9 % uploaded (13631488)
+0038.117 (0) Googledrive chunked upload: 27.8 % uploaded (14680064)
+0038.253 (0) Googledrive chunked upload: 29.8 % uploaded (15728640)
+0038.404 (0) Googledrive chunked upload: 31.8 % uploaded (16777216)
+0038.561 (0) Googledrive chunked upload: 33.8 % uploaded (17825792)
+0038.692 (0) Googledrive chunked upload: 35.8 % uploaded (18874368)
+0038.829 (0) Googledrive chunked upload: 37.8 % uploaded (19922944)
+0038.974 (0) Googledrive chunked upload: 39.8 % uploaded (20971520)
+0039.116 (0) Googledrive chunked upload: 41.8 % uploaded (22020096)
+0039.251 (0) Googledrive chunked upload: 43.8 % uploaded (23068672)
+0039.401 (0) Googledrive chunked upload: 45.7 % uploaded (24117248)
+0039.561 (0) Googledrive chunked upload: 47.7 % uploaded (25165824)
+0039.912 (0) Googledrive chunked upload: 49.7 % uploaded (26214400)
+0040.073 (0) Googledrive chunked upload: 51.7 % uploaded (27262976)
+0040.252 (0) Googledrive chunked upload: 53.7 % uploaded (28311552)
+0040.449 (0) Googledrive chunked upload: 55.7 % uploaded (29360128)
+0040.592 (0) Googledrive chunked upload: 57.7 % uploaded (30408704)
+0041.175 (0) Googledrive chunked upload: 59.7 % uploaded (31457280)
+0041.417 (0) Googledrive chunked upload: 61.7 % uploaded (32505856)
+0041.624 (0) Googledrive chunked upload: 63.6 % uploaded (33554432)
+0042.017 (0) Googledrive chunked upload: 65.6 % uploaded (34603008)
+0042.185 (0) Googledrive chunked upload: 67.6 % uploaded (35651584)
+0042.335 (0) Googledrive chunked upload: 69.6 % uploaded (36700160)
+0042.483 (0) Googledrive chunked upload: 71.6 % uploaded (37748736)
+0042.636 (0) Googledrive chunked upload: 73.6 % uploaded (38797312)
+0042.889 (0) Googledrive chunked upload: 75.6 % uploaded (39845888)
+0043.052 (0) Googledrive chunked upload: 77.6 % uploaded (40894464)
+0043.227 (0) Googledrive chunked upload: 79.5 % uploaded (41943040)
+0043.417 (0) Googledrive chunked upload: 81.5 % uploaded (42991616)
+0043.592 (0) Googledrive chunked upload: 83.5 % uploaded (44040192)
+0043.864 (0) Googledrive chunked upload: 85.5 % uploaded (45088768)
+0044.046 (0) Googledrive chunked upload: 87.5 % uploaded (46137344)
+0044.214 (0) Googledrive chunked upload: 89.5 % uploaded (47185920)
+0044.383 (0) Googledrive chunked upload: 91.5 % uploaded (48234496)
+0044.550 (0) Googledrive chunked upload: 93.5 % uploaded (49283072)
+0044.757 (0) Googledrive chunked upload: 95.5 % uploaded (50331648)
+0044.923 (0) Googledrive chunked upload: 97.4 % uploaded (51380224)
+0045.111 (0) Googledrive chunked upload: 99.4 % uploaded (52428800)
+0045.869 (0) Googledrive chunked upload: 100 % uploaded (52428800)
+0045.873 (0) Google Drive: OK: Archive backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-uploads.zip uploaded in 10.21 seconds
+0045.874 (0) Recording as successfully uploaded: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-uploads.zip
+0045.911 (0) Deleting local file: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-uploads.zip: OK
+0046.098 (0) Google Drive: quota usage: used=908.8 MB, total=30720 MB, available=29811.2 MB
+0046.100 (0) Google Drive: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-others.zip: Attempting to upload to Google Drive (into folder id: 1ZEGWxX9_tQAL32sjFUus-_91ij2-lG3d)
+0047.467 (0) Googledrive chunked upload: 100 % uploaded
+0047.471 (0) Google Drive: OK: Archive backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-others.zip uploaded in 1.37 seconds
+0047.473 (0) Recording as successfully uploaded: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-others.zip
+0047.475 (0) Deleting local file: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-others.zip: OK
+0047.757 (0) Google Drive: quota usage: used=908.8 MB, total=30720 MB, available=29811.2 MB
+0047.793 (0) Google Drive: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db.gz: Attempting to upload to Google Drive (into folder id: 1ZEGWxX9_tQAL32sjFUus-_91ij2-lG3d)
+0048.846 (0) Googledrive chunked upload: 100 % uploaded
+0048.850 (0) Google Drive: OK: Archive backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db.gz uploaded in 1.06 seconds
+0048.851 (0) Recording as successfully uploaded: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db.gz
+0048.854 (0) Deleting local file: backup_2019-09-04-1653_Big_Bio_UCLA_90eb0dcd29ac-db.gz: OK
+0048.857 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0048.858 (0) These backup set(s) were imported from a remote location, so will not be counted or pruned. Skipping: 1561074360
+0048.859 (0) Number of backup sets in history: 4; groups (db): 1
+0048.860 (0) Examining (for databases) backup set with group_id=0, nonce=90eb0dcd29ac, datestamp=1567641221 (Sep 04 2019 23:53:41)
+0048.861 (0) This backup set is the backup set just made, so will not be deleted.
+0048.861 (0) Examining (for databases) backup set with group_id=0, nonce=66e1e4d3c94c, datestamp=1567634054 (Sep 04 2019 21:54:14)
+0048.861 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0048.862 (0) Examining (for databases) backup set with group_id=0, nonce=4436c4eb1c47, datestamp=1567627184 (Sep 04 2019 19:59:44)
+0048.862 (0) 1567627184: db: this set includes a database (backup_2019-09-04-1259_Big_Bio_UCLA_4436c4eb1c47-db.gz); db count is now 2
+0048.862 (0) 1567627184: db: over retain limit (2); will delete this database
+0048.862 (0) Delete file: backup_2019-09-04-1259_Big_Bio_UCLA_4436c4eb1c47-db.gz, service=googledrive
+0049.883 (0) Google Drive: backup_2019-09-04-1259_Big_Bio_UCLA_4436c4eb1c47-db.gz: Deletion successful
+0049.887 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0049.888 (0) Number of backup sets in history: 4; groups (files): 1
+0049.889 (0) Examining (for files) backup set with nonce=90eb0dcd29ac, datestamp=1567641221 (Sep 04 2019 23:53:41)
+0049.889 (0) This backup set is the backup set just made, so will not be deleted.
+0049.890 (0) This backup set is the backup set just made, so will not be deleted.
+0049.890 (0) This backup set is the backup set just made, so will not be deleted.
+0049.890 (0) This backup set is the backup set just made, so will not be deleted.
+0049.890 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0049.891 (0) Examining (for files) backup set with nonce=66e1e4d3c94c, datestamp=1567634054 (Sep 04 2019 21:54:14)
+0049.891 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0049.892 (0) Examining (for files) backup set with nonce=4436c4eb1c47, datestamp=1567627184 (Sep 04 2019 19:59:44)
+0049.892 (0) plugins: over retain limit (2); will delete this file entity
+0049.892 (0) themes: over retain limit (2); will delete this file entity
+0049.892 (0) uploads: over retain limit (2); will delete this file entity
+0049.892 (0) others: over retain limit (2); will delete this file entity
+0049.892 (0) Delete file: backup_2019-09-04-1259_Big_Bio_UCLA_4436c4eb1c47-plugins.zip, service=googledrive
+0049.893 (0) Delete file: backup_2019-09-04-1259_Big_Bio_UCLA_4436c4eb1c47-themes.zip, service=googledrive
+0049.894 (0) Delete file: backup_2019-09-04-1259_Big_Bio_UCLA_4436c4eb1c47-uploads.zip, service=googledrive
+0049.895 (0) Delete file: backup_2019-09-04-1259_Big_Bio_UCLA_4436c4eb1c47-others.zip, service=googledrive
+0050.791 (0) Google Drive: backup_2019-09-04-1259_Big_Bio_UCLA_4436c4eb1c47-others.zip: Deletion successful
+0051.280 (0) Google Drive: backup_2019-09-04-1259_Big_Bio_UCLA_4436c4eb1c47-uploads.zip: Deletion successful
+0051.684 (0) Google Drive: backup_2019-09-04-1259_Big_Bio_UCLA_4436c4eb1c47-themes.zip: Deletion successful
+0052.101 (0) Google Drive: backup_2019-09-04-1259_Big_Bio_UCLA_4436c4eb1c47-plugins.zip: Deletion successful
+0052.107 (0) This backup set is now empty; will remove from history
+0052.108 (0) Deleting log file (log.4436c4eb1c47.txt)
+0052.109 (0) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0052.114 (0) Resume backup (90eb0dcd29ac, 0): finish run
+0052.117 (0) Decremented the semaphore (fd) by 1
+0052.118 (0) Semaphore (fd) unlocked
+0052.119 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0052.123 (0) No email will/can be sent - the user has not configured an email address.
+0052.124 (0) The backup apparently succeeded and is now complete

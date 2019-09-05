@@ -1,0 +1,122 @@
+﻿BASICS OF GENOMICS
+Inheritance and Linkage Disequilibrium
+
+
+After this module you should be able to explain the following terms and ideas. 
+________________
+
+
+KEY TERMS
+Recombination, Recombination hot spot, Linkage, Linkage Disequilibrium, Perfect LD, LD-block
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is recombination? Why aren’t full chromosomes inherited together?
+
+
+
+
+
+
+
+
+
+
+Is the probability of a recombination occurring between two base pairs constant across the genome? Explain. 
+
+
+
+
+
+
+
+
+
+
+What is linkage disequilibrium (LD)? What is an LD-block?
+
+
+
+
+
+
+
+
+Do you expect LD to increase or decrease between SNPs as they become more distant. Why?
+
+
+
+
+
+
+
+
+
+
+What would you expect the LD to be between two SNPs on different chromosomes? Why?
+
+
+
+
+
+
+
+
+
+
+Assume you collect genetic information and height measurements on many individuals. If you correlate height with SNP-1 you get a correlation coefficient of 0.15. If SNP-2 is in perfect LD with SNP-1 and you correlate height with SNP-2, will you get the same correlation coefficient? Why or why not?

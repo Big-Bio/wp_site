@@ -1,0 +1,26 @@
+<div class="doc_title">API Documentation</div>
+
+<p><strong>Generate API Documentation</strong></p>
+<ul class="doc_list">
+  <li>Start the command line interface</li>
+  <li>Navigate to the plugin root folder</li>
+  <li>Enter the following commands:</li>
+  <ul>
+    <li>composer require --dev phpdocumentor/phpdocumentor dev-master</li>
+    <li>php vendor/phpdocumentor/phpdocumentor/bin/phpdoc.php</li>
+  </ul>
+  <li>Navigate to subfolder docs</li>
+  <li>Open file index.html in your favourite browser</li>
+</ul>
+
+<p><strong>Remove API Documentation</strong></p>
+<ul class="doc_list">
+  <li>Start the command line interface</li>
+  <li>Navigate to the plugin root folder</li>
+  <li>Enter the following command:</li>
+  <ul>
+    <li>composer remove --dev phpdocumentor/phpdocumentor</li>
+  </ul>
+  <li>Delete subfolder docs</li>
+  <li>Delete file composer.lock</li>
+</ul>

@@ -1,0 +1,209 @@
+/*
+CTC Separate Stylesheet
+Updated: 2019-07-26 11:23:55
+Theme Name: big bio child
+Template: betheme
+Tags: one-column,two-columns,left-sidebar,right-sidebar,custom-background,custom-header,custom-menu,editor-style,featured-image-header,featured-images,post-formats,responsive-layout,theme-options,translation-ready
+Version: 1.0.0.1564165435
+*/
+
+/* overrides */
+h5 { 
+	color:#61B4E5 !important;
+}
+
+/* input typ="file" */
+.input_file {
+	width: 0.1px;
+	height: 0.1px;
+	opacity: 0;
+	overflow: hidden;
+	position: absolute;
+	z-index: -1;
+}
+
+.input_file + label { 
+	width: 6em;
+	font-size: .8em;
+  font-weight: 400;
+  color: #08447B;
+  background-color: white;
+	display: inline-block;
+	padding: 8px;
+	box-shadow: grey 1px 1px 5px;
+	transition: ease-in-out .2s;
+	
+	cursor: pointer;
+}
+
+.input_file + label:hover { 
+	background-color:#f1f1f1;
+	color: #08447B;
+	box-shadow: none;
+}
+
+.top_bar_right_wrapper{
+	display: flex;
+	padding: 10px;
+}
+
+.creator_content{
+	padding: 20px;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.bg_modal {
+	display:none;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,0.7);
+	position: absolute;
+	z-index: 10000;
+	top:0;
+	justify-content: center;
+	align-items: center;
+}
+
+.modal-content{
+	width: 1000px;
+	height: 700px;
+	padding: 50px;
+	background-color: white;
+	position: relative;
+	border-radius: 4px;
+	overflow: scroll;
+}
+
+.close {
+	position: absolute;
+	left: -10px;
+	top: 8px;
+	width: 16px;
+	height: 16px;
+	opacity: 0.3;
+  }
+  .close:hover {
+	opacity: 1;
+  }
+  .close:before, .close:after {
+	position: absolute;
+	left: -10px;
+	content: ' ';
+	height: 16px;
+	width: 2px;
+	background-color: #333;
+  }
+  .close:before {
+	transform: rotate(45deg);
+  }
+  .close:after {
+	transform: rotate(-45deg);
+  }
+
+.tag{ 
+	position: relative;
+}
+
+.bg-delete{
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,0.7);
+	position: absolute;
+	z-index: 10000;
+	top:0;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	display:none;
+}
+
+.delete-content{
+	width: 500px;
+	height: 120px;
+	background-color: white;
+	position: relative;
+	border-radius: 4px;
+	padding: 20px;
+}
+
+.delete_close{
+	position: absolute;
+	top: 0;
+	right: 14px;
+	font-size: 42px;
+	transform: rotate(45deg);
+}
+
+div#verify {
+	display: none;
+}
+
+div#second, div#third{
+	display: none;
+}
+
+/* /beta/register */
+
+.sm_container{
+	min-height: 88vh !important;
+	padding: 5vw;
+	padding-left: 8vw;
+	padding-right: 8vw;
+}
+
+.mm_container { 
+	height: auto; 
+	padding: 5vw;
+	padding-left: 8vw;
+	padding-right: 8vw;
+}
+
+.error { 
+	color:  #D8000C;
+	font-size: 1rem;
+}
+
+/* /beta/module-submit */
+.mm_text_container { 
+	width: 50vw;
+	height: 150px;
+}
+
+.create_module_container{
+	display: flex;
+	flex-direction: column;
+}
+
+.create_module_container section { 
+	margin: 16px;
+}
+
+button {
+	font-size: 1em;
+	font-weight: 400;
+	border-radius: 0 !important;
+	margin-top: 50px;
+}
+
+.preview_button { 
+	 background-color: #E527A1;
+}
+
+.input_prompt { 
+	max-width: 50vw;
+}

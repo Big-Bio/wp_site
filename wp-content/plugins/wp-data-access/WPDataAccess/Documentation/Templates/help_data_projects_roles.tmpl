@@ -1,0 +1,22 @@
+<div class="doc_title">Data Projects - User Roles and WHERE Clauses</div>
+<p>A Data Project consists of one or more data administration and/or static pages.
+Use the role attribute to define which users should have access to a page.
+</p>
+<p>In a student administration system for example, you might need a page to inform students about their personal results.
+Suppose student results are stored in table STUDENT_RESULTS which has a column STUDENT_NAME that holds the WordPress username of the student.
+</p>
+<p>
+You can restrict the information shown as follows:<br/>
+(1) Give students a WordPress role (subscriber for example)<br>
+(2) Add the following WHERE clause to the student result page: STUDENT_NAME = $$USER$$
+</p>
+<p>
+Students will see their own results only.
+If you have users who need to see all results, you might need a second student result page available to their role.
+</p>
+<p><strong>NOTES</strong></p>
+<ul class="doc_list">
+  <li>You can set the default value of a table column to the WordPress username using the $$USER$$ environment variable:<br/>
+  Data Projects > Manage Table Options > select your table > set "Default value" to $$USER$$</li>
+  <li>If you set the WHERE clause to "your_column_name=$$USER$$" and the default value for your_column_name to $$USER$$, users will be able to see and edit their personal data only.</li>
+</ul>

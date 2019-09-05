@@ -1,0 +1,39 @@
+*** BUGS ***
+
++ After updating a table design the user has to reconcile to reflect the real database table structure
+
+*** FEATURE REQUESTS ***
+
++ Add fields containing images (forum post #11658244)
++ Add upload files/attachments (forum post #11658244)
++ Data management on web page (forum post #11694569)
+
++ Field formatting e.g. phone number, credit card, date/time (review wmuskie)
++ Nested lookup in ADD and EDIT page (review wmuskie)
++ Dynamic hyperlink in LIST page (review wmuskie)
+
++ Is it possible to add grid editing with DataTables as an add-on? (YES) (forum post #11660769)
++ Store data in another database (forum post #11706835)
+
+*** WORK IN PROGRESS ***
+
++ CLEANUP: Language translation support
++ Add videos to documentation
+  + Data Projects
+  + Data Backup tool
+  + Data Explorer
+  + Data Designer
+  + Data Menus
+
+*** NEXT ***
+
++ Display multiple lookup columns
++ Check JS/CSS versions for bootstrap, datatables and responsive
++ Export posts related to static pages in data projects (id +  author)
++ Prevent access to WP tables on main page import (?)
++ Backup data to Google Drive and OneDrive
++ If no primay key use unique index for Data Explorer row actions
+
+*** FUTURE ***
+
++ Data Command (SQL command line)

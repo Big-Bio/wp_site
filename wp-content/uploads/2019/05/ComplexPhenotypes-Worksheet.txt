@@ -1,0 +1,109 @@
+﻿BASICS OF GENOMICS
+Complex Phenotypes
+
+
+After this module you should be able to explain the following terms and ideas.
+________________
+
+
+
+
+KEY TERMS
+Genetic Component, Environmental Component, Complex Phenotype, Polygenic, (True) Effect Size, (True) Causal or Risk Variant, Gene by Environment Interaction, Gene by Gene Interaction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONCEPT QUESTIONS
+
+
+For many highly heritable traits (e.g. height), children tend to have have a trait value between that of their parents (e.g child is shorter than tall parent and taller than short parent). Why is this?
+
+
+
+
+
+
+
+
+We often assume that the E component for each individual (assuming individuals are independent from each other) is simply a draw from a normal distribution. Why is this appropriate?
+
+
+
+
+
+
+One of the most “heritable traits” is “graduating from medical school”. Is this inherited through genetics? If not, then why does this trait “run in families”?
+
+
+
+
+
+
+Assume that there are M snps in the genome. If a true model for a trait is Y=GB+E, how many Bs are there?
+
+
+
+
+Assume that there are M snps in the genome. If a true model for a trait is Y=GB+GG+E, how many Bs are there?
+
+
+
+
+
+
+
+
+Assume you have two SNPs in perfect LD. One of them has a true effect of making people 1 inch taller, the other has no effect on height. You collect height measurements and the genotypes of the two SNPs for many individuals. How can you tell which SNP has the true non-zero causal effect  and which no effect?

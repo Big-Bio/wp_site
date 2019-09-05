@@ -1,0 +1,127 @@
+﻿BASICS OF GENOMICS  | MODULE 1
+The Basic Genome
+
+
+After Module 1, you should be able to explain the following terms and ideas.
+________________
+
+
+
+
+KEY TERMS
+Base pair, Nucleotide, Strand, Single nucleotide polymorphism (SNP), Haplotype, Genotype, Indel, Variant, Mutation, Allele, Genotyping, Sequencing, Phased/Unphased Genotypes, Chromosome
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONCEPT QUESTIONS
+
+
+What is the basic unit of DNA? What are the four types and how are they abbreviated?
+
+
+
+
+
+
+What is a base pair? Why is it a pair? What does this have to do with strands? When we write out the genome, why do we only write out one of the strands? 
+
+
+
+
+
+
+What is an allele? How many does a normal human have for each position in the genome?
+
+
+
+
+What is a genotype?
+
+
+
+
+
+
+What is a variant? Is this the same as a mutation or a SNP? 
+
+
+
+
+What does SNP stand for? What about SNV? How are they different? 
+
+
+
+
+What is an indel? How is it different from a SNP? 
+
+
+
+
+What is genotyping? How is it different from sequencing?
+
+
+
+
+
+
+What does it mean to have phased genotypes? How do you phase genotypes?
+
+
+
+
+
+
+What is a haplotype? How is it different from chromosomes?
