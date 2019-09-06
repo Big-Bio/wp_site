@@ -71,7 +71,6 @@ Thumbs.db
 
 # Logs and databases #
 ######################
-setup.md
 *.log
 *.sql
 *.sqlite
